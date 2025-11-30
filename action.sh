@@ -74,11 +74,12 @@ mkdir -p ${FINAL_THEME_DIR}
 echo "Fetching theme files..."
 
 # clone only the specified theme using sparse checkout to save bandwidth and time
-git clone -n --depth=1 --filter=tree:0 https://github.com/saberzero1/quartz-themes.git &> /dev/null
-git -C quartz-themes sparse-checkout set --no-cone /themes/${THEME} &> /dev/null
-git -C quartz-themes checkout &> /dev/null
+git clone -n --depth=1 --filter=tree:0 https://github.com/saberzero1/quartz-themes.git
+git -C quartz-themes sparse-checkout set --no-cone /themes/${THEME} 
+git -C quartz-themes checkout 
 
 echo "Installing theme files..."
+ls quartz-themes
 
 mv quartz-themes/themes/${THEME}/* ${FINAL_THEME_DIR}
 rm -rf quartz-themes
