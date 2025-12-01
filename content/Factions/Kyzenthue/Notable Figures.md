@@ -1,6 +1,6 @@
 ---
 title: Notable Figures
-draft: true
+draft: false
 tags:
   - example-tag
 ---
