@@ -1,12 +1,19 @@
 ---
 title: Table of Contents
 ---
-[[TL;DR]]
-Read a summary of the campaign and its current events.
+# [[1 TL;DR]]
+Read a summary of the campaign and its current events. 
 
-[[News Update]]
+<br>
+
+
+# [[2 News Update]]
 The most concurrent updates within the campaign.
 
-[[Homebrew]]
+<br>
+
+# [[Homebrew]]
+
 Refresher of the custom rules, items, and spells for this campaign.
 
+<br>
