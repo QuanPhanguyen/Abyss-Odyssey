@@ -12,7 +12,7 @@ The most concurrent updates within the campaign.
 
 <br>
 
-# [[Homebrew]]
+# [[Homebrew/index]]
 
 Refresher of the custom rules, items, and spells for this campaign.
 
