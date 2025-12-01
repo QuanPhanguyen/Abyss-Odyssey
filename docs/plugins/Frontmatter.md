@@ -35,6 +35,10 @@ Quartz supports the following frontmatter:
   - `publish`
 - draft
   - `draft`
+- pinned
+  - `pinned`
+- motd
+  - `motd`
 - enableToc
   - `enableToc`
 - tags

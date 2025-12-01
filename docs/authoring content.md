@@ -33,6 +33,8 @@ Some common frontmatter fields that are natively supported by Quartz:
 - `aliases`: Other names for this note. This is a list of strings.
 - `tags`: Tags for this note.
 - `draft`: Whether to publish the page or not. This is one way to make [[private pages|pages private]] in Quartz.
+- `pinned`: A pinned page will show up in the left-hand side under Pinned.
+- `motd`: A message of the day that will show up as the title in Pinned.
 - `date`: A string representing the day the note was published. Normally uses `YYYY-MM-DD` format.
 
 See [[Frontmatter]] for a complete list of frontmatter.

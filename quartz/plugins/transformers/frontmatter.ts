@@ -147,6 +147,8 @@ declare module "vfile" {
         socialDescription: string
         publish: boolean | string
         draft: boolean | string
+        pinned: boolean | string
+        motd: string
         lang: string
         enableToc: string
         cssclasses: string[]

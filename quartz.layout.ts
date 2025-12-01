@@ -38,6 +38,7 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
+    Component.Pinned(),
     Component.Explorer(),
   ],
   right: [
@@ -62,6 +63,7 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
+    Component.Pinned(),
     Component.Explorer(),
   ],
   right: [],
