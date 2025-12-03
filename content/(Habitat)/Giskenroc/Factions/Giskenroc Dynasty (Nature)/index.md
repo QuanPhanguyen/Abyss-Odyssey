@@ -1,0 +1,3 @@
+---
+title: Giskenroc Dynasty (Nature)
+---
