@@ -1,9 +1,4 @@
 ---
 title: Homebrew
 ---
-Spreadsheet of custom spells allowed in this campaign.
-
-[Spells](https://docs.google.com/spreadsheets/d/1VfhELzfRb1OrqBQfMH6keCvxSvHf-c5dHnmCVN0Vor8/edit?usp=sharing)
-
-
-
+This campaign will run as a mix of the 2014 and 2024 5e ruleset.
