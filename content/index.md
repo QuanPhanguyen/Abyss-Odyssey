@@ -1,14 +1,14 @@
 ---
 title: Table of Contents
 ---
-# [[1 TL;DR]]
+# [[TL;DR]]
 Read a summary of the campaign and its current events. 
 
 <br>
 
 
-# [[2 News Update]]
-The most concurrent updates within the campaign.
+# [[News Update]]
+Catch up on previous sessions by reading about their impact in the news.
 
 <br>
 
