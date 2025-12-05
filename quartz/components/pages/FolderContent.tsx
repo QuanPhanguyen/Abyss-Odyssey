@@ -20,8 +20,8 @@ interface FolderContentOptions {
 }
 
 const defaultOptions: FolderContentOptions = {
-  showFolderCount: true,
-  showSubfolders: true,
+  showFolderCount: false,
+  showSubfolders: false,
 }
 
 export default ((opts?: Partial<FolderContentOptions>) => {
@@ -113,9 +113,11 @@ export default ((opts?: Partial<FolderContentOptions>) => {
               })}
             </p>
           )}
+          {options.showSubfolders && (
           <div>
-            <PageList {...listProps} />
+              <PageList {...listProps} />
           </div>
+          )}
         </div>
       </div>
     )
