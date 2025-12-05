@@ -1,6 +1,6 @@
 ---
-title: (Habitat)
+title: Habitat
 ---
 ![[my bad.png]] 
 
-A
+The Habitat contains 
