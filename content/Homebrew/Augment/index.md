@@ -1,7 +1,7 @@
 ---
 title: Augment
 ---
-[[Compendium]]
+# [[Compendium]]
 
 Augments are a new type of item unique to this campaign. There are several working theories regarding their origin. The most popular, widely accepted one is that they are items left behind by fallen civilizations with technology centuries ahead of ours, though a few researchers refute this. 
 
@@ -20,4 +20,6 @@ Transfixing an augment requires a long rest. You obtain the benefits of a long r
 
 If you wish to exchange augments, you must go through its transfixing process as usual. However, its cost will not be refunded. If you lost 10 maximum hit points to transfix an augment, then swap out to a different one, those 10 hit points will not return. 
 
-Choose wisely.
+Not all of the rules for Augments are listed as of this moment, as they are still being researched within the kingdom. When information is found, this page will be updated. Make your decisions firmly.
+
+
