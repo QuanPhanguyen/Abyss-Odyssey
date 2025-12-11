@@ -1,7 +1,7 @@
 ---
 title: Giskenrok
 ---
-433 LM.
+533 LM.
 
 The Gisken Empire is a young civilization born from an mysterious heap of land. The history of how it came to be is a closely guarded secret known only by its direct royal line, though to be frank, the majority of the population does not care about their empire's history. Life in the empire is perilous and tough. The right to live is given with life on the line. Due to resources and technology being so tightly linked, it is expected for citizens to offer themselves up in some way to enjoy the empire's benefits. 
 

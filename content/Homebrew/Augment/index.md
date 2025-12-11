@@ -3,7 +3,7 @@ title: Augment
 ---
 # [[Compendium]]
 
-Augments are a new type of item unique to this campaign. There are several working theories regarding their origin. The most popular, widely accepted one is that they are items left behind by fallen civilizations with technology centuries ahead of ours, though a few researchers refute this. 
+Augments are a new type of item unique to this campaign. The kingdom's best have several working theories regarding their origin. The most popular, widely accepted one is that they are items left behind by fallen civilizations with technology centuries ahead of ours. A few researchers refute this. 
 
 Augments range in grade. They offer immense power for those who are willing to part ways with their corporeal aspects. Since their early dawning age, the Gisken empire has integrated augments into day-to-day life, though not without hiccups. In modern era, due to research enabling mass-production of low-grade augments, most working citizens use one, granting them benefits such as increased strength or access to one or two spells. Any augment more powerful than these require venturing out into other biomes through costly expeditions. Having an augment, no matter how useful, from beyond the empire walls is enough to lift your family from poverty. 
 
