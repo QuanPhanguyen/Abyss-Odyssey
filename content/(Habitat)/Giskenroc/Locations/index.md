@@ -1,4 +1,6 @@
 ---
 title: Locations
 ---
-surrounding area
+- academy
+- some place with water
+- guild hall

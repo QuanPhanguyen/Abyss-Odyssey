@@ -5,30 +5,31 @@ draft: true
 
 
 ```chronos
+
 @ [0~66] #purple Closed History
-- [0] #green Birth of a Nation  
+- [0] #green Giskenroc Founded  
 
 @ [67~187] #purple Birth of a Nation
-- [67] #green Kingdom Construction Finished
-- [110] #yellow Fluorescent Light Discovered
-- [187] #green Bordering Territories Construction Finished
+- [67] #pink Kingdom Construction Finished
+- [110] #yellow Fluorescent Light Discovered | [[(Habitat)/Giskenroc/Factions/Congregant of Aerovar (Light)/History/index|index]]
+- [158] #green Biome Restrictions
+- [187] #pink Bordering Territories Construction Finished
 
 @ [188~313] #purple Scientific Expedition
-- [199] #green Dezerekt Biome Discovered
+- [199] #pink Dezerekt Biome Discovered
 - [227] #blue First Man Made Augment
 - [313] #blue First Rare-Grade Man Made Augment
   
-@ [314~450] #purple Aerovian Revolution
-- [328] #yellow Aerovian Sun Expedition
-- [344] #green Death of King Eponya
-- [345] #green Crowning of King Desolpe
-- [444] #blue First Epic-Grade Man Made Augment
+@ [314~424] #purple Aerovian Revolution
+- [328] #yellow Aerovian Sun Expedition | [[(Habitat)/Giskenroc/Factions/Congregant of Aerovar (Light)/History/index|index]]
+- [384] #green Death of King Eponya
+- [385] #green Crowning of King Desolpe
+- [420] #blue First Epic-Grade Man Made Augment
   
-@ [451~502] #purple Age of Exploration
-- [450] #green Biome Restriction Lowered
-- [455] #yellow Leader Appointment of Aero and Kyezenthue
-- [455] #blue Leader Appointment of Aero and Kyezenthue
-- [502] #green Present Day
+@ [425~502] #purple Age of Exploration
+- [425] #green Biome Restriction Lowered
+- [455] #green The Council of Three
+- [502] #pink Present Day
 ```
 
 ```chronos

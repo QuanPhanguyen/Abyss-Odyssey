@@ -7,3 +7,5 @@ internal
 
 external
 - exploration of well-charted ruin, secret compartment
+
+ruisca, pushing for biome exploration
