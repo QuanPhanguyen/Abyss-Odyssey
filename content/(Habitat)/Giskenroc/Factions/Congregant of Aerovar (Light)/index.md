@@ -7,3 +7,7 @@ Being an official within the Congregant grants you the same political power as h
 
 Priests make up the lowest layer of the hierarchal pyramid, followed by cardinals of various degrees of ranking, and topped off by Aero, the figure head. Their duties involve mostly ceremonious cultural events, such as hosting holidays, leading mass, and ushering in the bidaily sunlight. 
 
+#### [[(Habitat)/Giskenroc/Factions/Congregant of Aerovar (Light)/History/index|History]]
+
+#### [[(Habitat)/Giskenroc/Factions/Congregant of Aerovar (Light)/Notable Figures/index|Notable Figures]]
+

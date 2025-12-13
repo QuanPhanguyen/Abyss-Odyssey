@@ -16,3 +16,6 @@ A biome named after the famous dwarven explorer Dezerekt Derelect who founded an
 The discovery of this biome single-handedly brought forth an age like Giskenroc had never seen before. The amount of coalitions and research groups focused on Augments were so high and dense, they became what we know today as the [[(Habitat)/Giskenroc/Factions/Kyezenthue (Dark)/index|Kyezenthue]]. Augments exploded several societal factors of the Giskenroc civilization. Everyone had to play keep up. Researchers propose they advanced the civilization by as much as five times they would have if they were never discovered.
 
 #### Present Day (502 LM.)
+It feels as though things have been on a brink for a touch too long. The [[(Habitat)/Giskenroc/Factions/Giskenroc Dynasty (Nature)/History/index|Three's Council]] hasn't revealed any large changes. The loosening of requirements for biome exploration has increased the amount of travel being done, but it hasn't led to a discovery like Dezerekt yet. It feels as though the Kyezenthue are about to create the first man-made legendary-grade augment, but it's all rumors at the moment. With the [[Current Cardinal|Aero's]] old age, it seems like a new candidate will be chosen soon. 
+
+Something will happen.

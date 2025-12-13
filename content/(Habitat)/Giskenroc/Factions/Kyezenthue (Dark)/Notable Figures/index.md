@@ -5,5 +5,5 @@ A list of notable figures within this faction. This list will be updated as sess
 
 <br>
 
-## [[Current Cardinal|King Desolpe]]
-The current king of the Giskenroc. 
+## [[CEO|Lrae]]
+The head of the largest spire within Kyezenthue. 

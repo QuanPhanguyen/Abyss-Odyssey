@@ -13,6 +13,7 @@ draft: true
 - [67] #pink Kingdom Construction Finished
 - [110] #yellow Fluorescent Light Discovered | [[(Habitat)/Giskenroc/Factions/Congregant of Aerovar (Light)/History/index|index]]
 - [158] #green Biome Restrictions
+- [166] #blue Kyezenthue Restrictions
 - [187] #pink Bordering Territories Construction Finished
 
 @ [188~313] #purple Scientific Expedition
@@ -27,8 +28,9 @@ draft: true
 - [420] #blue First Epic-Grade Man Made Augment
   
 @ [425~502] #purple Age of Exploration
-- [425] #green Biome Restriction Lowered
-- [455] #green The Council of Three
+- [425] #green Biome Restriction Repealed
+- [451] #green Three's Council
+- [455] #blue Kyezenthue Restriction Repealed
 - [502] #pink Present Day
 ```
 
