@@ -1,5 +1,6 @@
 ---
 title: Table of Contents
+comments: "true"
 ---
 # [[TL;DR]]
 Read a summary of the campaign and its current events. 
