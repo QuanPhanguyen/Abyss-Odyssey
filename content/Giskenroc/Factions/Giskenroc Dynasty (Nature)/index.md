@@ -7,7 +7,7 @@ The royal family and the council of Trebytheus are composed of pureblooded elves
 
 Its not clear what the Giskenroc Dynasty has to gain from being rather indulgent leaders. Most of the population has accepted them as part of the common folk; they're people like them who are doing their best to cultivate a future. If they have anything to hide, and they do, it likely isn't important.
 
-#### [[(Habitat)/Giskenroc/Factions/Kyezenthue (Dark)/History/index|History]]
+#### [[Giskenroc/Factions/Kyezenthue (Dark)/History/index|History]]
 
-#### [[(Habitat)/Giskenroc/Factions/Giskenroc Dynasty (Nature)/Notable Figures/index|Notable Figures]]
+#### [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/Notable Figures/index|Notable Figures]]
 

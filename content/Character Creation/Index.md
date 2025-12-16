@@ -6,4 +6,4 @@ Wondering what knowledge your character would have in this campaign, or just how
 
 ### [[Classes]]
 ### [[Races]]
-### [[(Habitat)/Giskenroc/Locations/index|Locations]]
+### [[Giskenroc/Locations/index|Locations]]

@@ -27,7 +27,7 @@ Although historic, this achievement was in no way monumental. The epic-grade aug
 No real advancements were made.
 
 #### Kyezenthue Restriction Repealed (455 LM.)
-Some context is required for this act. It's important to note that the previous king, who placed the original restriction, had passed away, and was replaced with a much more liberal figure. He then met up with the leaders of the Aerovar and the Kyezenthue in a meeting dubbed the [[(Habitat)/Giskenroc/Factions/Giskenroc Dynasty (Nature)/History/index|Three's Council]] to discuss matters unknown to the general public. He also removed many of the requirements to go out and explore biomes.
+Some context is required for this act. It's important to note that the previous king, who placed the original restriction, had passed away, and was replaced with a much more liberal figure. He then met up with the leaders of the Aerovar and the Kyezenthue in a meeting dubbed the [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/History/index|Three's Council]] to discuss matters unknown to the general public. He also removed many of the requirements to go out and explore biomes.
 
 The repeal is full of political jargon, but simply put it allows for more dangerous experiments to occur. Previously, experiments with anything higher than an expected 50% mortality rate were not allowed. Now experiments are allowed all the way up to 95% mortality rate. 
 
