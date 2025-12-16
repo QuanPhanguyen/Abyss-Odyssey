@@ -6,7 +6,7 @@ The birth of the Giskenroc kingdom is a secret doused in mystery. All attempts t
 
 *The nurturing tree of Einswaldi created the first of the Gisken, and from there they used the land's bountiful magic to form the rest of the populace.* 
 
-This may have been believable in the early ages of the empire, but with all of the technological resources at hand it's evident [[Einswaldi]] has never been a source of magic powerful enough to do anything like what was mythed in the fable. The truth of the matter is life is too precious and fast-paced for most citizens to care about the real nature of their kingdom. In a world where you're likely dead at thirty, are you spending that time on a pointless question?
+This may have been believable in the early ages of the empire, but with all of the technological resources at hand it's evident [[Giskenroc/Locations/index|Einswaldi]] has never been a source of magic powerful enough to do anything like what was mythed in the fable. The truth of the matter is life is too precious and fast-paced for most citizens to care about the real nature of their kingdom. In a world where you're likely dead at thirty, are you spending that time on a pointless question?
 
 #### Biome Restrictions (158 LM.)
 After the discovery and research of [[Dezerekt]], the kingdom official tightened requirements on outgoing adventurers. Previously, any adult could leave the gateways connecting Giskenroc whenever they wanted. The official word on why they decided to tighten requirements was that the mortality rate of unprepared adventurers was too high. Although this statistic was true, historians hypothesize there was another reason for the chance, asking why the royal family would wait this long to implement this change if this was always the case.
