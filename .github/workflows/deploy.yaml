@@ -26,6 +26,11 @@ jobs:
           node-version: 22
       - name: Install Dependencies
         run: npm ci
+      - name: Create and populate runtime sha file
+        run: |
+          touch git_sha
+          echo "${{ github.sha }}" > ~/git_sha
+        shell: bash
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
