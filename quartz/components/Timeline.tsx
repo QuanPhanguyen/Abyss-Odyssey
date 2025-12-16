@@ -1,5 +1,5 @@
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
-import style from "./styles/pinned.scss"
+import style from "./styles/timeline.scss"
 import { resolveRelative} from "../util/path"
 // import { i18n } from "../i18n"
 import { classNames } from "../util/lang"
