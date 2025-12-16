@@ -7,7 +7,7 @@ Augments are a new type of item unique to this campaign. The kingdom's best have
 
 Augments range in grade. They offer immense power for those who are willing to part ways with their corporeal aspects. Since their early dawning age, the Gisken empire has integrated augments into day-to-day life, though not without hiccups. In modern era, due to research enabling mass-production of low-grade augments, most working citizens use one, granting them benefits such as increased strength or access to one or two spells. Any augment more powerful than these require venturing out into other biomes through costly expeditions. Having an augment, no matter how useful, from beyond the empire walls is enough to lift your family from poverty. 
 
-There exists three legendary grade artifacts within the empire, each held by a major faction. 
+There exists two legendary grade artifacts within the empire, each held by a major faction. 
 
 
 # Rules
