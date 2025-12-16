@@ -12,7 +12,7 @@ In the year 166 LM., the largest internal tragedy in Giskenroc history would occ
 This event caused heavy outcry from the general population, and the Gisken family was forced to step in. They hired a new role within the kingdom to inspect on goings within the spire and give permission to all dangerous experiments. The groups were also given a section of Giskenroc to officially do work in.  
 
 #### First Man Made Augment (227 LM.)
-The discovery of the Dezerekt biome granted the Kyezenthue near infinite resources to work with in the first century. Using the former goblin wizard's notes and testing out all the ideas they could muster, the tabaxi Nico Praxis was the first to create a man made augment. It granted minor strength, and its upgraded form is used in the present day.
+The discovery of the Dezerekt biome granted the Kyezenthue near infinite resources to work with in the first century. Using the former goblin wizard's notes and testing out all the ideas they could muster, the tabaxi Nico Praxis was the first to create a man made augment. It granted minor strength, and its refined form is used in the present day.
 
 #### First Rare-Grade Man Made Augment (313 LM.)
 Many other common augments were made, but it took nearly another century to create the next level of augment. The classification for the grading was simple: if it could grant the wielder the ability to cast a spell which required a spell slot. 
