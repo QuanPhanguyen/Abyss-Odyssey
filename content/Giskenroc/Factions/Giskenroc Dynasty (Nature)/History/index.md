@@ -26,5 +26,5 @@ If you wanted something, you'd put your life on the line for it. Not many could 
 One of the most influential decrees signed under King Desolpe. All sorts of highly dangerous Biomes were back on the table, and everyone was allowed to put skin in the game. Since this repeal, deaths from biome expeditions have steadily creeped into the hundred thousands territory. Only time will tell if it was worth it.
 
 #### Three's Council (451 LM.)
-In an strange abrupt event, King Desolpe held a meeting private chambers meeting with the head of the Aerovar and the head of the Kyezenthue. No one knows what occurred in this unprecedented meeting other than the three and a few of their closest aides. The official word is the king gave a congratulatory note to the two for their good work.
+In an strange abrupt event, King Desolpe held a meeting private chambers meeting with the head of the Aerovar and the head of the Kyezenthue. No one else was in the room where it happened. No one knows what occurred in this unprecedented meeting other than the three and a few of their closest aides. The official word is the king gave a congratulatory note to the two for their good work.
 
