@@ -14,7 +14,7 @@ After the discovery and research of [[Dezerekt]], the kingdom official tightened
 One of the changes was that from then on, anyone who wished to leave had to sign up with a guild's hall sanctioned by the kingdom in order to obtain an expedition permit. This halved the mortality rate, and generally solved the issue they had. However, there were some issues with how these permits were handed out, a topic of contention persisting until the biome restrictions were lifted again.
 
 #### Death of King Eponya, Crowning of King Desolpe (384 LM.)
-King Eponya had a largely hands-off policy when it came to his kingdom. All things considered, he did a fairly good job of leading his denizens. Although life has majorly sucked in Giskenroc, it sucked fairly under his rule. The difference between the richest and poorest citizen wasn't as large as it could've been. The motto for his reign was simple:
+King Eponya had a largely hands-off policy when it came to his kingdom. All things considered, he did a fairly good job of leading his denizens. Although life has majorly sucked in Giskenroc, it sucked equally under his rule. The difference between the richest and poorest citizen wasn't as large as it could've been. The motto for his reign was simple:
 
 *No rewards come without risk.*
 
