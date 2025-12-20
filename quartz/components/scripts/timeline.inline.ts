@@ -1,5 +1,5 @@
 
-import { Timeline, DataItem, TimelineOptions, DataGroup } from "vis-timeline/standalone";
+import { Timeline, DataItem, TimelineOptions } from "vis-timeline/standalone";
 import { DataSet } from 'vis-data';
 
 const options: TimelineOptions = {

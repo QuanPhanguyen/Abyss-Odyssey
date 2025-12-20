@@ -12,7 +12,7 @@ export const VisTimeline: QuartzTransformerPlugin<Partial<Options>> = (opts) => 
     markdownPlugins() {
       return [[
         () => {
-          return async (tree: Root, file) => {
+          return async (tree: Root, _) => {
             var timelineIdx: number = 0
             visit(tree, "code", (node: Code) => {
               if (node.lang === 'chronos') {
