@@ -22,6 +22,9 @@ import checkboxScript from "../../components/scripts/checkbox.inline"
 // @ts-ignore
 import mermaidScript from "../../components/scripts/mermaid.inline"
 import mermaidStyle from "../../components/styles/mermaid.inline.scss"
+// @ts-ignore
+import timelineScript from "../../components/scripts/timeline.inline"
+import timelineStyle from "../../components/styles/timeline.inline.scss"
 import { FilePath, pathToRoot, slugTag, slugifyFilePath } from "../../util/path"
 import { toHast } from "mdast-util-to-hast"
 import { toHtml } from "hast-util-to-html"
@@ -42,6 +45,7 @@ export interface Options {
   enableVideoEmbed: boolean
   enableCheckbox: boolean
   disableBrokenWikilinks: boolean
+  timeline: boolean
 }
 
 const defaultOptions: Options = {
@@ -58,6 +62,7 @@ const defaultOptions: Options = {
   enableVideoEmbed: true,
   enableCheckbox: false,
   disableBrokenWikilinks: false,
+  timeline: true,
 }
 
 const calloutMapping = {
@@ -775,6 +780,17 @@ export const ObsidianFlavoredMarkdown: QuartzTransformerPlugin<Partial<Options>>
 
         css.push({
           content: mermaidStyle,
+          inline: true,
+        })
+      }
+      if (opts.timeline) {
+        js.push({
+            script: timelineScript,
+            loadTime: "afterDOMReady",
+            contentType: "inline",
+        })
+        css.push({
+          content: timelineStyle,
           inline: true,
         })
       }
