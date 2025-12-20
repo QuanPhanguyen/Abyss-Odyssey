@@ -96,7 +96,36 @@
 
 .chronos-timeline-container .vis-item {
 	border-radius: var(--radius-s) !important;
+	color: var(--timeline-text);
 	border-color: var(--color-accent);
+}
+// Add colors!
+// Change
+.chronos-timeline-container .vis-item.blue {
+	background-color: var(--chronos-color-blue);
+}
+.chronos-timeline-container .vis-item.pink {
+	background-color: var(--chronos-color-pink);
+}
+.chronos-timeline-container .vis-item.yellow {
+	background-color: var(--chronos-color-yellow);
+}
+.chronos-timeline-container .vis-item.green {
+	background-color: var(--chronos-color-green);
+}
+
+// Change the color of links in the timeline.
+.vis-item-content a {
+	color: var(--timeline-link-text) !important;
+	text-decoration: underline;
+	font-weight: 900 !important;
+}
+.vis-item-content a:hover {
+	color: var(--timeline-link-hover-text) !important;
+}
+
+.vis-item.vis-selected {
+	background-color: #fff785 !important;
 }
 
 .chronos-timeline-container .vis-time-axis .vis-grid.vis-minor {
@@ -217,8 +246,4 @@
 		width 0.3s ease,
 		left 0.3s ease,
 		transform 0.3s ease;
-}
-
-.timeline-link {
-  font: Impact;
 }

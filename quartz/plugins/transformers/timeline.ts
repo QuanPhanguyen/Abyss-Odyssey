@@ -33,7 +33,6 @@ export const VisTimeline: QuartzTransformerPlugin<Partial<Options>> = (opts) => 
     },
     externalResources() {
       return {
-        css: [{ content: "https://unpkg.com/vis-timeline@latest/styles/vis-timeline-graph2d.min.css" }],
         js: [
           {
             src: "https://unpkg.com/vis-timeline@latest/standalone/umd/vis-timeline-graph2d.min.js",

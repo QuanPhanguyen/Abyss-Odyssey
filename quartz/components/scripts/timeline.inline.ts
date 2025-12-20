@@ -72,7 +72,7 @@ function getDataItemFromLine(id: number, line: string, background: boolean) {
         var [contentString, ...contentLinkArr] = attributes[3].split("|")
         var contentAttr = [contentLinkArr.join("|")].filter(Boolean)
         var contentHref = obsidianLinkToHref(contentAttr[0])
-        content = `<a href=${contentHref} class="timeline-link">${contentString}</a>`
+        content = `<a href="${contentHref}">${contentString}</a>`
     }
     // Create the final object.
     var dataItem: DataItem
