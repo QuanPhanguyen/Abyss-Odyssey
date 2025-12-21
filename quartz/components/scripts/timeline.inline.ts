@@ -2,6 +2,7 @@
 import { Timeline, DataItem, TimelineOptions } from "vis-timeline/standalone";
 import { DataSet } from 'vis-data';
 import { env } from "../../../version.json"
+import { pathToRoot } from "../../util/path";
 
 const options: TimelineOptions = {
     width: '100%',
@@ -17,7 +18,7 @@ const reTimeFrame: RegExp = /^\[(\d+)~(\d+)\]/;
 const reTimeItem: RegExp = /^\[(\d+)\]/;
 
 function getPathFromEnv() {
-    var pathRoot: string = "./"
+    var pathRoot: string = ""
     if (env == "prd") {
         pathRoot = "Aebis-Odyssey/"
     }
@@ -42,8 +43,11 @@ function obsidianLinkToHref(link: string) {
     // Normalize path to root
     const currentPath: string = window.location.pathname;
     const numPathBackToRoot: number = (currentPath.match(/\//g)||[]).length
-    var prefix: string = "./" + "../".repeat(numPathBackToRoot) + getPathFromEnv()
-    return prefix + sanitizedHref
+    var prefix: string = "./"
+    if (numPathBackToRoot > 0) {
+        prefix = "../".repeat(numPathBackToRoot)
+    }
+    return prefix + getPathFromEnv() + sanitizedHref
 }
 
 function getDataItemFromLine(id: number, line: string, background: boolean) {
@@ -81,7 +85,7 @@ function getDataItemFromLine(id: number, line: string, background: boolean) {
         var [contentString, ...contentLinkArr] = attributes[3].split("|")
         var contentAttr = [contentLinkArr.join("|")].filter(Boolean)
         var contentHref = obsidianLinkToHref(contentAttr[0])
-        content = `<a href="${contentHref}">${contentString}</a>`
+        content = `<a href=${contentHref}>${contentString}</a>`
     }
     // Create the final object.
     var dataItem: DataItem
