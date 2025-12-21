@@ -6,6 +6,7 @@ This campaign takes place in a world colloquially called the Habitat. It contain
 Our story takes place within one of these Biomes, where a barren, grim, dark landscape of blackstone and cobble named Giskenroc shoddily stands. It is a kingdom whose technology has surpassed all other societal factors, a fact easily surveyable at a glance with how careening and violent its architecture is. For forty hours, the empire is enveloped in darkness. The citizens do what they can with the artificial lights they've created. But at the end of this timeframe, one of the gateways to leave Giskenroc buried deep, deep in the sky syncs up with the outer layers and gorgeous sunlight illuminates the kingdom for fifteen entire minutes.  
 
 ```chronos
+#PARAM:{"windowRange":[270,530]}
 
 @ [0~66] #purple Closed History
 - [0] #green Giskenroc Founded  
