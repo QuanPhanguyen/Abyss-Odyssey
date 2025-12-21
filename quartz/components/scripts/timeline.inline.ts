@@ -97,8 +97,16 @@ function getDataItemFromLine(id: number, line: string, background: boolean) {
     return dataItem
 }
 
+function getParamFromLine(line: string) {
+    return JSON.parse(line.split("#PARAM:")[1])
+}
+
 function isTimeRange(line: string) {
     return line.startsWith("@")
+}
+
+function isParam(line: string) {
+    return line.startsWith("#PARAM:")
 }
 
 function parseItems(element: HTMLElement) {
@@ -110,6 +118,7 @@ function parseItems(element: HTMLElement) {
         if (line.replaceAll(" ", "").length == 0) {
             continue
         }
+        if (isParam(line)) {continue}
         var dataItem: DataItem = getDataItemFromLine(id, line, isTimeRange(line))
         if (isTimeRange(line)) {
             backgroundItemsArray.push(dataItem)
@@ -123,8 +132,23 @@ function parseItems(element: HTMLElement) {
     return new DataSet<DataItem>(backgroundItemsArray.concat(itemsArray));
 }
 
+function parseParams(element: HTMLElement) {
+    var params: {[id: string] : string} = {}
+    var lines: string[] = element.textContent.split("\n")
+    for (var line of lines) {
+        if (line.replaceAll(" ", "").length == 0) {
+            continue
+        }
+        if (isParam(line)) {
+            var param = getParamFromLine(line)
+            params = param
+            break
+        }
+    }
+    return params
+}
 
-document.addEventListener("nav", async () => {
+async function renderTimeline() {
     var timelineContainers = document.getElementsByClassName("chronos-timeline-container");
 
     // Display the completed timeline. We need to do a level of indirection,
@@ -132,15 +156,24 @@ document.addEventListener("nav", async () => {
     for (var container of timelineContainers) {
         var containerHTMLElement = document.getElementById(container.id)
         if (containerHTMLElement) {
-            var items = parseItems(containerHTMLElement);
+            var items = parseItems(containerHTMLElement)
+            var additionalParams = parseParams(containerHTMLElement)
             // Don't display any actual text.
-            container.textContent = "";
-
-            var timeline = await new Timeline(containerHTMLElement, items, options)
+            container.textContent = ""
+            var timeline: Timeline = await new Timeline(containerHTMLElement, items, options)
             // Zoom in so users see an acceptable view.
             timeline.zoomIn(0.8)
-            timeline.setWindow(400, 550)
+            // We can also specify a window range to start the timeline at.
+            if ("windowRange" in additionalParams) {
+                if (Array.isArray(additionalParams["windowRange"])) {
+                    console.log(additionalParams["windowRange"])
+                    timeline.setWindow(additionalParams["windowRange"][0], additionalParams["windowRange"][1])
+                }
+            }
         }
     }
+}
 
+document.addEventListener("nav", async () => {
+    await renderTimeline()
 })

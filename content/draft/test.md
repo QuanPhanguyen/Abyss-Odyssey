@@ -1,8 +1,17 @@
 ---
 title: timeline
 ---
+```mermaid
+sequenceDiagram
+    Alice->>+John: Hello John, how are you?
+    Alice->>+John: John, can you hear me?
+    John-->>-Alice: Hi Alice, I can hear you!
+    John-->>-Alice: I feel great!
+
+```
 
 ```chronos
+#PARAM:{"windowRange": [400,550]}
 
 @ [0~66] #purple Closed History
 - [0] #green Giskenroc Founded  
