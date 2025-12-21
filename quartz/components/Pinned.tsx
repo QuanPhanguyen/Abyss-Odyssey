@@ -21,7 +21,6 @@ export default ((opts?: Partial<PinnedOptions>) => {
     fileData,
     allFiles,
     displayClass,
-    cfg,
   }: QuartzComponentProps) => {
     const pinnedFiles = allFiles.filter((file) => file.frontmatter?.pinned)
     if (options.hideWhenEmpty && pinnedFiles.length == 0) {

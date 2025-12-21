@@ -183,21 +183,21 @@
   --color-base-50: #1a2833 !important;
   --color-base-60: #141f28 !important;
   --color-base-70: #141f25 !important;
-  --color-blue: #0477ff !important;
+  --color-blue: #3e93fa !important;
   --color-blue-rgb: 4, 119, 255 !important;
   --color-cyan: #00c8c8 !important;
   --color-cyan-rgb: 0, 200, 200 !important;
-  --color-green: #34915e !important;
+  --color-green: #46ce83 !important;
   --color-green-rgb: 52, 145, 94 !important;
   --color-orange: #fd9434 !important;
   --color-orange-rgb: 253, 148, 52 !important;
-  --color-pink: #e135e4 !important;
+  --color-pink: #efabf1 !important;
   --color-pink-rgb: 225, 53, 228 !important;
   --color-purple: #9c7ad3 !important;
   --color-purple-rgb: 156, 122, 211 !important;
   --color-red: #f51a68 !important;
   --color-red-rgb: 245, 26, 104 !important;
-  --color-yellow: #c2ba8c !important;
+  --color-yellow: #dfcb89 !important;
   --color-yellow-rgb: 194, 186, 140 !important;
   --corner-smoothing: 0 !important;
   --cursor: default !important;
@@ -768,6 +768,9 @@
   --text-selection: rgba(34, 142, 195, 0.2) !important;
   --text-success: #34915e !important;
   --text-warning: #fd9434 !important;
+  --timeline-link-text: #1c8386 !important;
+  --timeline-link-hover-text: #0cb9be !important;
+  --timeline-text: rgb(17, 17, 17) !important;
   --titlebar-background: #eff3f6 !important;
   --titlebar-background-focused: #f6f9fb !important;
   --titlebar-border-color: #cfdae2 !important;
@@ -1018,9 +1021,9 @@
   --color-blue-rgb: 4, 165, 255 !important;
   --color-cyan: #81d5d0 !important;
   --color-cyan-rgb: 129, 213, 208 !important;
-  --color-green: #39f098 !important;
+  --color-green: #33d687 !important;
   --color-green-rgb: 57, 240, 152 !important;
-  --color-orange: #f3c85b !important;
+  --color-orange: #ffd363 !important;
   --color-orange-rgb: 243, 200, 91 !important;
   --color-pink: #ec95ee !important;
   --color-pink-rgb: 236, 149, 238 !important;
@@ -1597,6 +1600,9 @@
   --text-selection: rgba(34, 142, 195, 0.33) !important;
   --text-success: #39f098 !important;
   --text-warning: #f3c85b !important;
+  --timeline-link-text: #bdeeff !important;
+  --timeline-link-hover-text: white !important;
+  --timeline-text: rgb(17, 17, 17) !important;
   --titlebar-background: #070b0d !important;
   --titlebar-background-focused: #070b0d !important;
   --titlebar-border-color: #141f25 !important;
@@ -1664,7 +1670,6 @@
   --text-highlight-editing: #f0eaaf !important;
   --text-highlight-rendered: #252525 !important;
   --vault-name-color: rgb(60, 167, 221) !important;
-
   --quartz-icon-color: currentColor;
 }
 

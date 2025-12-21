@@ -2,16 +2,24 @@
 title: timeline
 draft: true
 ---
+```mermaid
+sequenceDiagram
+    Alice->>+John: Hello John, how are you?
+    Alice->>+John: John, can you hear me?
+    John-->>-Alice: Hi Alice, I can hear you!
+    John-->>-Alice: I feel great!
 
+```
 
 ```chronos
+#PARAM:{"windowRange": [400,550]}
 
 @ [0~66] #purple Closed History
 - [0] #green Giskenroc Founded  
 
 @ [67~187] #purple Birth of a Nation
 - [67] #pink Kingdom Construction Finished
-- [110] #yellow Fluorescent Light Discovered | [[(Habitat)/Giskenroc/Factions/Congregant of Aerovar (Light)/History/index|index]]
+- [110] #yellow Fluorescent Light Discovered | [[Giskenroc/Factions/Congregant-of-Aerovar-(Light)/History/index|index]]
 - [158] #green Biome Restrictions
 - [166] #blue Kyezenthue Restrictions
 - [187] #pink Bordering Territories Construction Finished
@@ -22,7 +30,7 @@ draft: true
 - [313] #blue First Rare-Grade Man Made Augment
   
 @ [314~424] #purple Aerovian Revolution
-- [328] #yellow Aerovian Sun Expedition | [[(Habitat)/Giskenroc/Factions/Congregant of Aerovar (Light)/History/index|index]]
+- [328] #yellow Aerovian Sun Expedition | [[Giskenroc/Factions/Congregant-of-Aerovar-(Light)/History/index|index]]
 - [384] #green Death of King Eponya
 - [385] #green Crowning of King Desolpe
 - [420] #blue First Epic-Grade Man Made Augment
@@ -32,19 +40,6 @@ draft: true
 - [451] #green Three's Council
 - [455] #blue Kyezenthue Restriction Repealed
 - [502] #pink Present Day
-```
-
-```chronos
-@ [1892-10-08~1941-08-31] {Marina Tsvetaeva} 1892-1941
-- [1916] {Marina Tsvetaeva} "Подруга"
-- [1928] {Marina Tsvetaeva}  "Поэма концов"
-- [1941] {Marina Tsvetaeva} "Записки о поэзии"
-
-@ [1899-08-24~1986-06-14] {Jorge Luis Borges} 1899-1986
-- [1944] {Jorge Luis Borges} "Ficciones"
-- [1949] {Jorge Luis Borges} "El Aleph"
-- [1962] {Jorge Luis Borges} "Labyrinths"
-
 ```
 
 #### 0 - 67 LM (Closed History)
