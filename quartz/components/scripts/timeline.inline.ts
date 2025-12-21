@@ -166,7 +166,6 @@ async function renderTimeline() {
             // We can also specify a window range to start the timeline at.
             if ("windowRange" in additionalParams) {
                 if (Array.isArray(additionalParams["windowRange"])) {
-                    console.log(additionalParams["windowRange"])
                     timeline.setWindow(additionalParams["windowRange"][0], additionalParams["windowRange"][1])
                 }
             }

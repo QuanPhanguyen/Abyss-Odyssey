@@ -16,7 +16,6 @@ export const VisTimeline: QuartzTransformerPlugin<Partial<Options>> = (opts) => 
             var timelineIdx: number = 0
             visit(tree, "code", (node: Code) => {
               if (node.lang === 'chronos') {
-                console.log("\nCode block:", node)
                 node.data = {
                   hProperties: {
                     "id": `timeline-container-${timelineIdx}`,
