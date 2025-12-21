@@ -28,7 +28,7 @@ jobs:
         run: npm ci
       - name: Create and populate runtime sha file
         run: |
-          echo -e "{\n\t\"env\":\"prd\"\n\t\"git_sha\": \"${{ github.sha }}\"\n}" > version.json
+          echo -e "{\n\t\"env\":\"prd\",\n\t\"git_sha\": \"${{ github.sha }}\"\n}" > version.json
         shell: bash
       - name: Build Quartz
         run: npx quartz build
