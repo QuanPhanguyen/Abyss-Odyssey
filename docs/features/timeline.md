@@ -22,7 +22,7 @@ To add a Timeline, create a chronos code block.
 ## Features
 
 Supports setting parameters in a JSON string anywhere in the code block. To specify a set of parameters to use for the timeline, append the `#PARAM:` block before a JSON-compatible string. The following entries are supported.
-    - `windowRange`: An array of two years, indicating where the timeline should initially focus on.
+- `windowRange`: An array of two years, indicating where the timeline should initially focus on.
 
 Supports events and event ranges. This is the same as chronos, where prepending a line with `@` signifies an event range and `-` indicates a single event.
 
