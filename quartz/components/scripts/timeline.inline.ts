@@ -2,7 +2,7 @@
 import { Timeline, DataItem, TimelineOptions } from "vis-timeline/standalone";
 import { DataSet } from 'vis-data';
 import { env } from "../../../version.json"
-import { pathToRoot } from "../../util/path";
+import { simplifySlug, getFullSlug, pathToRoot, FilePath, resolveRelative, slugifyFilePath } from "../../util/path";
 
 const options: TimelineOptions = {
     width: '100%',
@@ -41,13 +41,8 @@ function obsidianLinkToHref(link: string) {
     sanitizedHref = sanitizedHref.replaceAll("]", "")
 
     // Normalize path to root
-    const currentPath: string = window.location.pathname;
-    const numPathBackToRoot: number = (currentPath.match(/\//g)||[]).length
-    var prefix: string = "./"
-    if (numPathBackToRoot > 0) {
-        prefix = "../".repeat(numPathBackToRoot)
-    }
-    return prefix + getPathFromEnv() + sanitizedHref
+    console.log(getFullSlug(window))
+    return pathToRoot(getFullSlug(window)) + "/" + sanitizedHref
 }
 
 function getDataItemFromLine(id: number, line: string, background: boolean) {
