@@ -1,4 +1,5 @@
 {
     "env": "dev",
+    "baseURL": "quanphanguyen.github.io/Aebis-Odyssey",
     "git_sha": "UNKNOWN"
 }
