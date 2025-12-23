@@ -1,6 +1,7 @@
 import { slug as slugAnchor } from "github-slugger"
 import type { Element as HastElement } from "hast"
 import { clone } from "./clone"
+import { env } from "../../version.json"
 
 // this file must be isomorphic so it can't use node libs (e.g. path)
 
