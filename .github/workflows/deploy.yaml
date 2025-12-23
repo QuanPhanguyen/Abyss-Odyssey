@@ -31,7 +31,7 @@ jobs:
           echo -e "{\n\t\"env\":\"prd\",\n\t\"baseURL\": \"quanphanguyen.github.io/Aebis-Odyssey\",\n\t\"git_sha\": \"${{ github.sha }}\"\n}" > version.json
         shell: bash
       - name: Build Quartz
-        run: npx quartz build
+        run: npx quartz build --baseDir Aebis-Odyssey
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
