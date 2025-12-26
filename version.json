@@ -1,4 +1,5 @@
 {
     "env": "dev",
+    "baseURL": "localhost:8080",
     "git_sha": "UNKNOWN"
 }
