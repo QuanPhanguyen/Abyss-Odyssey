@@ -5,7 +5,7 @@ draft: false
 *There will be a real map here at some point.*
 
 #### Aska's River
-The river that flows through the kingdom and provides drinking water. It begins from a hole in the sky, and ends sinking through the ground. Not many questions are asked about, even though there probably should be.
+The river that flows through the kingdom and provides drinking water. It begins from a hole in the sky, and ends sinking through the ground. Not many questions are asked about it, even though there probably should be.
 
 #### Einswaldi
 The mythical tree of Giskenroc. Despite not actively aiding the empire anymore, it remains an important symbol to it's denizens as a reminder of fortitude. This tree is one of the few things as old as the empire is. It's massive branches, draped with comfortable flame lanterns all over serves as a hearth for those coming in and out of the kingdom.
