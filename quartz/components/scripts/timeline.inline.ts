@@ -41,8 +41,7 @@ function obsidianLinkToHref(link: string) {
     sanitizedHref = sanitizedHref.replaceAll("]", "")
 
     // Normalize path to root
-    console.log(getFullSlug(window))
-    return pathToRoot(getFullSlug(window)) + "/" + sanitizedHref
+    return pathToRoot(getFullSlug(window)) + "/" + sanitizedHref + "/"
 }
 
 function getDataItemFromLine(id: number, line: string, background: boolean) {
