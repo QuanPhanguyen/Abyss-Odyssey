@@ -14,28 +14,28 @@ Our story takes place within one of these Biomes, where a barren, grim, dark lan
 - [0] #green Giskenroc Founded | [[Giskenroc/History]]
 
 @ [67~187] #purple Birth of a Nation
-- [67] #pink Kingdom Construction Finished | [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/History]]
-- [110] #yellow Fluorescent Light Discovered | [[Giskenroc/Factions/Congregant of Aerovar (Light)/History]]
+- [67] #pink Kingdom Construction Finished | [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/History/]]
+- [110] #yellow Fluorescent Light Discovered | [[Giskenroc/Factions/Congregant of Aerovar (Light)/History/]]
 - [158] #green Biome Restrictions | [[Giskenroc/History]]
-- [166] #blue Kyezenthue Restrictions | [[Giskenroc/Factions/Kyezenthue (Dark)/History]]
-- [187] #pink Bordering Territories Construction Finished | [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/History]]
+- [166] #blue Kyezenthue Restrictions | [[Giskenroc/Factions/Kyezenthue (Dark)/History/]]
+- [187] #pink Bordering Territories Construction Finished | [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/History/]]
 
 @ [188~313] #purple Scientific Expedition
-- [199] #pink Dezerekt Biome Discovered | [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/History]]
-- [227] #blue First Man Made Augment | [[Giskenroc/Factions/Kyezenthue (Dark)/History]]
-- [313] #blue First Rare-Grade Man Made Augment | [[Giskenroc/Factions/Kyezenthue (Dark)/History]]
+- [199] #pink Dezerekt Biome Discovered | [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/History/]]
+- [227] #blue First Man Made Augment | [[Giskenroc/Factions/Kyezenthue (Dark)/History/]]
+- [313] #blue First Rare-Grade Man Made Augment | [[Giskenroc/Factions/Kyezenthue (Dark)/History/]]
   
 @ [314~424] #purple Aerovian Revolution
-- [328] #yellow Aerovian Sun Expedition | [[Giskenroc/Factions/Congregant of Aerovar (Light)/History]]
+- [328] #yellow Aerovian Sun Expedition | [[Giskenroc/Factions/Congregant of Aerovar (Light)/History/]]
 - [384] #green Death of King Eponya | [[Giskenroc/History]]
 - [385] #green Crowning of King Desolpe | [[Giskenroc/History]]
-- [420] #blue First Epic-Grade Man Made Augment | [[Giskenroc/Factions/Kyezenthue (Dark)/History]]
+- [420] #blue First Epic-Grade Man Made Augment | [[Giskenroc/Factions/Kyezenthue (Dark)/History/]]
   
 @ [425~502] #purple Age of Exploration
 - [425] #green Biome Restriction Repealed | [[Giskenroc/History]]
 - [451] #green Three's Council | [[Giskenroc/History]]
-- [455] #blue Kyezenthue Restriction Repealed | [[Giskenroc/Factions/Kyezenthue (Dark)/History]]
-- [502] #pink Present Day | [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/History]]
+- [455] #blue Kyezenthue Restriction Repealed | [[Giskenroc/Factions/Kyezenthue (Dark)/History/]]
+- [502] #pink Present Day | [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/History/]]
 ```
 
 <br>

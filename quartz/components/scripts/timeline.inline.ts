@@ -1,8 +1,7 @@
 
 import { Timeline, DataItem, TimelineOptions } from "vis-timeline/standalone";
 import { DataSet } from 'vis-data';
-import { env } from "../../../version.json"
-import { simplifySlug, getFullSlug, pathToRoot, FilePath, resolveRelative, slugifyFilePath } from "../../util/path";
+import { getFullSlug, pathToRoot } from "../../util/path";
 
 const options: TimelineOptions = {
     width: '100%',
@@ -16,14 +15,6 @@ const options: TimelineOptions = {
 }
 const reTimeFrame: RegExp = /^\[(\d+)~(\d+)\]/;
 const reTimeItem: RegExp = /^\[(\d+)\]/;
-
-function getPathFromEnv() {
-    var pathRoot: string = ""
-    if (env == "prd") {
-        pathRoot = "Aebis-Odyssey/"
-    }
-    return pathRoot
-}
 
 function obsidianLinkToHref(link: string) {
     var sanitizedHref: string = link
@@ -41,7 +32,6 @@ function obsidianLinkToHref(link: string) {
     sanitizedHref = sanitizedHref.replaceAll("]", "")
 
     // Normalize path to root
-    console.log(getFullSlug(window))
     return pathToRoot(getFullSlug(window)) + "/" + sanitizedHref
 }
 
