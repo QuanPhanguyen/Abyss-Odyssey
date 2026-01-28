@@ -7,6 +7,9 @@ draft: false
 #### Aska's River
 The river that flows through the kingdom and provides drinking water. It begins from a hole in the sky, and ends sinking through the ground. Not many questions are asked about it, even though there probably should be.
 
+#### Bazaar
+Often is the case when unknown trinkets and items are brought back from expeditions. Magical items not obvious in their nature are discarded or sold for cheap. Those with keen eyes for the strange arcane decide to to their business in a surprisingly festive 
+
 #### Einswaldi
 The mythical tree of Giskenroc. Despite not actively aiding the empire anymore, it remains an important symbol to it's denizens as a reminder of fortitude. This tree is one of the few things as old as the empire is. It's massive branches, draped with comfortable flame lanterns all over serves as a hearth for those coming in and out of the kingdom.
 
