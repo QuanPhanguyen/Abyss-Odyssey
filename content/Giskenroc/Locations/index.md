@@ -7,6 +7,9 @@ draft: false
 #### Aska's River
 The river that flows through the kingdom and provides drinking water. It begins from a hole in the sky, and ends sinking through the ground. Not many questions are asked about it, even though there probably should be.
 
+#### The Bask
+A carved, ringed deposit of marble near the gateway to the main Aerovian church. This particular location within the biome is said to receive the freshest sunlight when the day comes, resulting in impressive infrastructure to accommodate the citizens from all over Giskenroc in their monthly pilgrimage. 
+
 #### Bazaar
 Often is the case when unknown trinkets and items are brought back from expeditions. Magical items not obvious in their nature are discarded or sold for cheap. Those with keen eyes for the strange arcane decide to do their business in a surprisingly festive section near the outskirts of the capital. 
 
