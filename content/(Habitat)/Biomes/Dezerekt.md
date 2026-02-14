@@ -1,5 +1,13 @@
-The most well-known biome outside of Giskenroc for good reason. It's perhaps accountable for 30% of all trade that occurs within the empire. It's the most popular expeditioning biome for a number of reasons: It shows up consistently during work hours, it's safe (as far as biomes go), and it's bountiful in its harvest. Well, it used to be, at least.
+Entering Conditions: Understood (Accessible from [[Icynia's Plains]] 100% of the time)*
+Danger: Formerly Moderate, Currently Mild
+Connected Biomes: [[Icynia's Plains]]
+
+The most well-known biome outside of Giskenroc, and it's for good reason. It's perhaps accountable for 30% of all trade that occurs within the empire. It's the most popular expeditioning biome for a number of reasons: It shows up consistently during work hours, it's safe (as far as biomes go), and it's bountiful in its harvest. Well, it used to be, at least.
 
 Dezerekt is a sprawling labyrinthian dungeon filled with ancient technology. It's built from mossy stone slabs, ethereal carved crystal, and strange runic imprints. There's always wind blowing in from somewhere despite the biome being completely enclosed. Most of the tech within has broken down or rusted away, but they're usually worth their weight in gold just for research purposes. Most of the technology used within the kingdom stems in some part to exploration done within Dezerekt.
 
 Although abundant in its early centuries, Dezerekt has been thoroughly looted throughout time. Expeditions here can still merit you some reward, but it's nowhere near enough to live off of unless you desire delving down depths too perilous for human life. Nowadays explorers are faced with a difficult set of choices, continuing on with Dezerekt or trying their hand in a new, unexplored biome. 
+
+***
+
+\*A recent discovery has found that it is not possible to enter Dezerekt from Icynia's Plain when it is in its sundown period, however this condition is so rare it may as well be 100% of the time.

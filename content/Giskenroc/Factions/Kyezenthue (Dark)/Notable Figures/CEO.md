@@ -3,6 +3,8 @@ title: Lrae
 draft: false
 tags:
 ---
+*Chaotic evil dhampir researcher (age 119)*
+
 Everyone knows the name, nobody knows the dhampir. Lrae. It is as synonymous to Kyezenthue as the original goblin wizard it was named after is. In a world where the bold die young, you would be wise to pay attention when someone as dangerous as her makes it to the age of 119. 
 
 There's hardly a soul in Lrae's inner circle. She doesn't care to imprint her name on history, or achieve things for the first time simply because no one else has done it before. Her calling is to fulfill her desires, and they are vile. It just so happens to be that her fulfilled desires become monumental societal shifts.

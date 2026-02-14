@@ -2,6 +2,8 @@
 title: King Desolpe
 draft: false
 ---
+*Chaotic good elven king (age unknown)*
+
 Desolpe Gisken. The current monarch of Giskenroc. He's a child born out of wedlock from the former King Eponya and Cynthia Brigarde, a councilwoman of Trebytheus. King Eponya famously fell in love with a human in his midlife and never produced an heir. Later on in his life, he proposed the idea of having a surrogate mother to continue the Gisken line, and Cynthia took the opportunity. 
 
 The king of Giskenroc is required to be a pure-blooded elf. This is due to them inheriting the kingdom's most prized augment, the Giskenroc Legacy, which requires two-hundred and fifty years of lifespan as one of its costs. Only a few species can give up that amount of years. A half-elf cannot. 
