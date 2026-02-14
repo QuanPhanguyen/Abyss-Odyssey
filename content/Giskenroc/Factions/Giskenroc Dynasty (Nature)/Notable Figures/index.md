@@ -7,3 +7,6 @@ A list of notable figures within this faction. This list will be updated as sess
 
 ## [[Current Cardinal|King Desolpe]]
 The current king of the Giskenroc. 
+
+### [[Travish Darksledge]]
+A well-known retired adventurer who works as a cabby.
