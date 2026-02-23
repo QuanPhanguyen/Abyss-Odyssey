@@ -1,0 +1,3 @@
+*True good fairy researcher (age 33)*
+
+In a field littered with the unempathetic, it's remarkable that Lily Haxley still retain shreds of morality and compassion. She's a bulwark of the community, helping most who need it. She's tiny, the size of a hand, with pinkish purple wings and a glossy white lab coat. Her focus specializes in outside fauna and flora, not tech, so come to her with any questions regarding that. 

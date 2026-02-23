@@ -16,6 +16,9 @@ Often is the case when unknown trinkets and items are brought back from expediti
 #### Einswaldi
 The mythical tree of Giskenroc. Despite not actively aiding the empire anymore, it remains an important symbol to it's denizens as a reminder of fortitude. This tree is one of the few things as old as the empire is. It's massive branches, draped with comfortable flame lanterns all over serves as a hearth for those coming in and out of the kingdom.
 
+#### The Forestry Glade
+A quaint section of the capital where stone and metal buildings are overrun by moss and vines by design. There's soft amber lighting from lanterns, and thick burly oak trees. This area is typically inhabited by smaller fae, and a myriad of business occur in this district.
+
 #### Giskenroc Academy
 There is an academy within Giskenroc, but it's not a traditional school. Citizens can take classes on all sorts of subjects through a type of public market. Teachers create listings through the kingdom's official pathways and anyone can pay to attend their class. These are usually niche ideas essential to adventuring, augment experimentation, or other trade skills. 
 

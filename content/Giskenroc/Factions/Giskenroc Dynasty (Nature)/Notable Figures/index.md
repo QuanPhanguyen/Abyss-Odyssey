@@ -10,3 +10,6 @@ The current king of the Giskenroc.
 
 ### [[Travish Darksledge]]
 A well-known retired adventurer who works as a cabby.
+
+### [[Lily Haxley]]
+A fae researcher dealing with creatures and plants.
