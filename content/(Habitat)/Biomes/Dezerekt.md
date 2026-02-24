@@ -1,6 +1,9 @@
-Entering Conditions: Understood (Accessible from [[Icynia's Plains]] 100% of the time)*
-Danger: Formerly Moderate, Currently Mild
-Connected Biomes: [[Icynia's Plains]]
+
+| Name                | Dezerekt                          |
+| ------------------- | --------------------------------- |
+| Entering Conditions | Understood                        |
+| Danger              | Formerly Moderate, Currently Mild |
+| Connected Biomes    | [[Icynia's Plains]]               |
 
 The most well-known biome outside of Giskenroc, and it's for good reason. It's perhaps accountable for 30% of all trade that occurs within the empire. It's the most popular expeditioning biome for a number of reasons: It shows up consistently during work hours, it's safe (as far as biomes go), and it's bountiful in its harvest. Well, it used to be, at least.
 

@@ -1,6 +1,9 @@
-Entering Conditions: Understood (Accessible all the time except during the 7th day of the week)
-Danger: Safe*
-Connected Biomes: [[Dezerekt]]
+
+| Name                | Icynia's Plains |
+| ------------------- | --------------- |
+| Entering Conditions | Understood      |
+| Danger              | Safe*           |
+| Connected Biomes    | [[Dezerekt]]    |
 
 The transitive biome right off the exit of the Stoney Road. It is a long, long expanse of the same single scenery. A dirt road good enough to travel on by horse cart, and infinite wheat fields on both sides. There is something resembling sunlight in this biome, but there is no sun. There is only a bright blue sky devoid of clouds. This biome is completely empty and remains daytime permanently.*
 
