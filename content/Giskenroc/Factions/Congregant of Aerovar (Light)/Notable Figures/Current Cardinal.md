@@ -1,7 +1,7 @@
 ---
 title: Aero Rh'aap
 ---
-*Lawful good orc aero (age 63)*
+*Lawful good orc Aero (age 63)*
 
 Rh'aap Blackhide. The current Aero of the Congregant of Aerovar. Erase all images of godly figures in your mind, and imagine instead a large orc whose frame is as wide as an ancient temple's column and as tall as a wyvern. In his youngest years, he was a disciplined military man, leading expeditions to some of the most dangerous biomes the kingdom has ever charted. 
 

@@ -1,5 +1,7 @@
+[Session 3]([https://youtu.be/Fk4zIt79Mlk](https://youtu.be/Fk4zIt79Mlk "https://youtu.be/Fk4zIt79Mlk"))
+[Session 3 Extras]([https://youtu.be/leen_bk7jUE](https://youtu.be/leen_bk7jUE "https://youtu.be/leen_bk7jUE"))
 
-
+3/29/502 LM
 
 At the same day as [[Session 2]], [[Gogoat (Merchant)|Gogoat]] entertains a late night visitor who sells him an egg from deep in Dezerekt. He sends this egg away to a friend of his, [[Lily Haxley]], who specializes in this type of research.
 

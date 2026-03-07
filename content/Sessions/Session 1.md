@@ -1,6 +1,7 @@
 [Session 1](https://youtu.be/RzCefHifc1Q "https://youtu.be/RzCefHifc1Q")
 [Session 1 Extras](https://youtu.be/BeSJ1OXqkSU "https://youtu.be/BeSJ1OXqkSU")
 
+2/1/502 LM
 
 [[Alex (Bumpkin)|Alex]] and her two friends [[Niminee (Alex's Friend)|Niminee]] and [[Twig (Government Robot)|Twig]] go on an errand to pick something up for Alex's mother.
 
