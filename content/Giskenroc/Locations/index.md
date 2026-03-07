@@ -4,6 +4,9 @@ draft: false
 ---
 *There will be a real map here at some point.*
 
+#### Aerovian Church
+Only one church holds the title of Aerovian. This basic name holds great meaning to all who hear it because it stands for the main halls of the religion, located directly next to the Bask. It’s a resounding marble building, with pillars and a pyramid top. Very Greek architecture. Two large doorways are permanently open, with wide, shallow steps leading up to the monastery. Citizens are usually scattered about this monumental area, seemingly built for giants. 
+
 #### Aska's River
 The river that flows through the kingdom and provides drinking water. It begins from a hole in the sky, and ends sinking through the ground. Not many questions are asked about it, even though there probably should be.
 

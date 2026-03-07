@@ -9,7 +9,6 @@
 An amnesiac dwarf who does the odd job at local guilds. His augment holds the secret regarding his memory.
 
 Related Characters:
-[[Gogoat (Merchant)]] - Employer.
-[[Ricky (Rich)]] - Employer.
-[[Violet (Old Timer)]] - Acquaintance.
-[[Twig (Government Robot)]] - Acquaintance.
+- [[Gogoat (Merchant)]] - Employer.
+- [[Ricky (Rich)]] - Employer.
+

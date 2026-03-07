@@ -9,5 +9,5 @@
 A girlie from out in the boonies. 
 
 Related Characters:
-[[Niminee (Alex's Friend)]] - A hometown friend.
-[[Violet (Old Timer)]] - An acquaintance. 
+- [[Niminee (Alex's Friend)]] - A hometown friend.
+- [[Twig (Government Robot)]] - A friend.

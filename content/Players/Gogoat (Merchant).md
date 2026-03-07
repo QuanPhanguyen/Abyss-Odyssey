@@ -9,7 +9,7 @@
 A standard Gisken shopkeeper.
 
 Related Characters:
-[[Bjorn (Amnesiac)]] - Employee.
-[[Ricky (Rich)]] - Patron.
-[[Violet (Old Timer)]] - Acquaintance.
-[[Twig (Government Robot)]] - Acquaintance.
+- [[Bjorn (Amnesiac)]] - Employee.
+- [[Ricky (Rich)]] - Patron.
+- [[Lily Haxley]] - Biologist friend.
+

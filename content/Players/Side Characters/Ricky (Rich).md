@@ -9,5 +9,5 @@
 A wealthy elf with a flair for all things lucky.
 
 Related Characters:
-[[Gogoat (Merchant)]] - Owner of one of his businesses.
-[[Bjorn (Amnesiac)]] - Employee of one of his businesses.
+- [[Gogoat (Merchant)]] - Owner of one of his businesses.
+- [[Bjorn (Amnesiac)]] - Employee of one of his businesses.

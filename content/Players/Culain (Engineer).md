@@ -9,3 +9,4 @@
 A logical elf with his eyes on the scientific prize. Responsible for the discovery of the sun duration decreasing over the years.
 
 Related Characters: 
+- [[Seraphina (Biome Researcher)]] - Research partner.
