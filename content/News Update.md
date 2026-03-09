@@ -3,7 +3,9 @@ title: News Update
 pinned: true
 motd: Sunlight is diminishing.
 ---
-(4/19/502 LM) Sunlight is diminishing. Official research corroborated by Kyezenthue and the Aerovian church predict complete nightfall in as little as two generations. How will the Gisken Dynasty react to this development?
+(4/29/502 LM) Sunlight is diminishing. Official research corroborated by Kyezenthue and the Aerovian church predict complete nightfall in as little as two generations. How will the Gisken Dynasty react to this development?
+<br>
+(4/18/502 LM) Bishop Helion has unfortunately passed away, letting the mantle down to his second-in-command Four.
 <br>
 
 (3/29/502 LM) Sewers under construction until further notice, please dump your waste down Aska's river for now.
