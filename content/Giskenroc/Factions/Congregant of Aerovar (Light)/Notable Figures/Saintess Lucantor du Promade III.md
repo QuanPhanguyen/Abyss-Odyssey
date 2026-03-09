@@ -1,6 +1,6 @@
 ---
 title: Saintess Lucantor du Promade III
-draft: true
+draft: false
 ---
 *Chaotic good human saintess (age 17)*
 

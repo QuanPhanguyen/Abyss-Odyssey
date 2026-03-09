@@ -1,6 +1,6 @@
 ---
 title: Saintess Lucille du Promade III
-draft: true
+draft: false
 ---
 *Lawful good human saintess (age 17)*
 
