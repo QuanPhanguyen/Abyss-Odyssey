@@ -13,8 +13,8 @@ const options: TimelineOptions = {
     showWeekScale: false,
     showCurrentTime: false,
 }
-const reTimeFrame: RegExp = /^\[(\d+)~(\d+)\]/;
-const reTimeItem: RegExp = /^\[(\d+)\]/;
+const reTimeFrame: RegExp = /^\[([\w-]+)~([\w-]+)\]/;
+const reTimeItem: RegExp = /^\[([\w-]+)\]/;
 
 function obsidianLinkToHref(link: string) {
     var sanitizedHref: string = link
