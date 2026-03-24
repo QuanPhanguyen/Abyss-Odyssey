@@ -1,7 +1,7 @@
 A list of the sessions so far. These will include relevant links and an overview of what happened.
 
 ```chronos
-#PARAM:{"windowRange":[500,505]}
+#PARAM:{"windowRange":["502-01-01","502-10-01"]}
 
 @ [502~503] # To Be Gisken
 - [502-02-01] #green Session 1 | [[Session 1]]
