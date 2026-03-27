@@ -1,3 +1,6 @@
+[Session 5]([https://youtu.be/r0O1Ihrsw7E](https://youtu.be/r0O1Ihrsw7E "https://youtu.be/r0O1Ihrsw7E")))
+[Session 5 Extras]([https://youtu.be/r0O1Ihrsw7E](https://youtu.be/r0O1Ihrsw7E "https://youtu.be/r0O1Ihrsw7E")))
+
 4/26/502 LM
 
 Roll initiative. This session opens mid-combat. [[Violet (Old Timer)|Violet]], [[Twig (Government Robot)|Twig]], [[Gogoat (Merchant)|Gogoat]], [[Aria (Hired Mercenary)|Aria]], are in the middle of a combat with a sentient tree monster and its two smaller branch children. A bountiful spring with lush trees and crystalline water is the battlefield. [[Bjorn (Amnesiac)|Bjorn]] lies on the side, unconscious, with a gaping hole in his chest.

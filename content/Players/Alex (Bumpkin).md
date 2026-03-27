@@ -5,6 +5,8 @@
 | Class       | Bard                         |
 | Level       | 2                            |
 | Appearances | [[Session 1]], [[Session 2]] |
+| Augment     | No                           |
+| Equipment   | N/A                          |
 
 A girlie from out in the boonies. 
 
