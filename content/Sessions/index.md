@@ -9,4 +9,5 @@ A list of the sessions so far. These will include relevant links and an overview
 - [502-03-29] #green Session 3 | [[Sessions/Session 3]]
 - [502-04-19] #green Session 4 | [[Sessions/Session 4]]
 - [502-04-26] #green Session 5 | [[Sessions/Session 5]]
+- [502-05-20] #green Session 6 | [[Sessions/Session 6]]
 ```
