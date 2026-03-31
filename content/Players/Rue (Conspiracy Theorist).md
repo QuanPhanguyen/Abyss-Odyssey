@@ -8,7 +8,6 @@
 | Augment     | Yes, Rare     |
 | Equipment   | +1 Dagger     |
 
-(Description) 
+Unknown.
 
 Related Characters:
-- Example - Example Test
