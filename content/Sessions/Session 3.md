@@ -1,5 +1,5 @@
-[Session 3]([https://youtu.be/Fk4zIt79Mlk](https://youtu.be/Fk4zIt79Mlk "https://youtu.be/Fk4zIt79Mlk"))
-[Session 3 Extras]([https://youtu.be/leen_bk7jUE](https://youtu.be/leen_bk7jUE "https://youtu.be/leen_bk7jUE"))
+[Session 3](https://youtu.be/Fk4zIt79Mlk "https://youtu.be/Fk4zIt79Mlk")
+[Session 3 Extras](https://youtu.be/leen_bk7jUE "https://youtu.be/leen_bk7jUE")
 
 3/29/502 LM
 

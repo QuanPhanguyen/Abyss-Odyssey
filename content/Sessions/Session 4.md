@@ -1,5 +1,5 @@
-[Session 4]([https://youtu.be/1I_rgwK43uU](https://youtu.be/1I_rgwK43uU "https://youtu.be/1I_rgwK43uU"))
-[Session 4 Extras]([https://youtu.be/sz01MTVZthA](https://youtu.be/sz01MTVZthA "https://youtu.be/sz01MTVZthA"))
+[Session 4](https://youtu.be/1I_rgwK43uU "https://youtu.be/1I_rgwK43uU")
+[Session 4 Extras](https://youtu.be/sz01MTVZthA "https://youtu.be/sz01MTVZthA")
 
 4/19/502 LM
 

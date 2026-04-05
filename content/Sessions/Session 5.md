@@ -1,5 +1,5 @@
-[Session 5]([https://youtu.be/r0O1Ihrsw7E](https://youtu.be/r0O1Ihrsw7E "https://youtu.be/r0O1Ihrsw7E")))
-[Session 5 Extras]([https://youtu.be/r0O1Ihrsw7E](https://youtu.be/r0O1Ihrsw7E "https://youtu.be/r0O1Ihrsw7E")))
+[Session 5](https://youtu.be/r0O1Ihrsw7E "https://youtu.be/r0O1Ihrsw7E")
+[Session 5 Extras](https://youtu.be/r0O1Ihrsw7E "https://youtu.be/r0O1Ihrsw7E")
 
 4/26/502 LM
 

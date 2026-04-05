@@ -1,3 +1,6 @@
+[Session 6](https://youtu.be/AG7vCVwABdk "https://youtu.be/AG7vCVwABdk")
+[Session 6 Extras](https://youtu.be/xkaNiFBJw40 "https://youtu.be/xkaNiFBJw40")
+
 5/20/502 LM
 
 We open with the same party we had in [[Session 4]].  [[Seraphina (Biome Researcher)|Seraphina]] and [[Culain (Engineer)|Culain]] are now scientific micro-celebrities, although their research and persons are completely owned by the church. Their research is slow and steady, but they've hit another roadblock. They learn that an off-site church outside of the capital has what they need. Coincidentally, this church hasn't responded to any official inquiries in some time. A taskforce is requested and granted, comprising of Seraphina, Culain, [[Violet (Old Timer)|Violet]], [[Four (Cult Leader)|Four]], and [[Relic (Minor Cult Member)|Relic]]. An overseer will come along to make sure nothing goes wrong.
