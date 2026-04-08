@@ -1,12 +1,12 @@
 
-| Player      | Megan                        |
-| ----------- | ---------------------------- |
-| Species     | Wood Elf                     |
-| Class       | Ranger                       |
-| Level       | 2                            |
-| Appearances | [[Session 4]], [[Session 6]] |
-| Augment     | No                           |
-| Equipment   | Cloak of Protection          |
+| Player      | Megan                                       |
+| ----------- | ------------------------------------------- |
+| Species     | Wood Elf                                    |
+| Class       | Ranger                                      |
+| Level       | 2                                           |
+| Appearances | [[Session 4]], [[Session 6]], [[Session 7]] |
+| Augment     | No                                          |
+| Equipment   | Cloak of Protection                         |
 
 A spoiled elven girl cooped up in her lab because her father forbids her from leaving Giskenroc. Responsible for the discovery of the sun duration decreasing over the years.
 

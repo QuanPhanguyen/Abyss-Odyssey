@@ -15,11 +15,14 @@ A long dirt road and infinite wheat fields.
 ### [[Dezerekt]]
 A dungeon with the remnants of a fallen civilization's artifacts.
 
+### [[Petrified Metropolis]]
+A sprawling grey urban city filled with robotic threats.
+
 ***
 
 Tag Notes:
 
-The Entering Conditions tag stands for whether Giskenroc understands how to enter this biome or whether they stumble upon it by chance. 
+The Entering Conditions tag stands for whether Giskenroc understands how to enter this biome or whether they stumble upon it by chance. There will be a percentage indicating how often they are able to intentionally enter it.
 
 Danger levels for biomes fall under the following categories:
 1. Safe - Completely harmless biome with no threats. Recommended for everyone.
