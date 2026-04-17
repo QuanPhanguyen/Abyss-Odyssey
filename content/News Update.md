@@ -15,7 +15,7 @@ motd: Head researcher calls for expeditions out of Giskenroc!
 (3/29/502 LM) Sewers under construction until further notice, please dump your waste down Aska's river for now.
 <br>
 
-(3/4/502 LM) A scion of Trebytheus has gone missing, please be on the lookout for a soft-spoken male high elf.
+(3/4/502 LM) A scion of Trebytheus has gone missing, please be on the lookout for a soft-spoken high elf.
 <br>
 
 (3/3/502 LM) Breaking News! Icynia's Plains no longer safe! Experts advise to stay on the dirt rail no matter what!
