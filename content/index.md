@@ -6,18 +6,10 @@ Read a summary of the campaign and its current events.
 
 <br>
 
-# [[Character Creation/index|Character Creation]]
-Get started on making your characters for this campaign!
-
-<br>
-
-# [[Homebrew/index|Homebrew]]
-
-Refresher of the custom rules, items, and spells for this campaign.
+# [[Sessions/index|Sessions]]
+Stay up to date with the campaign by reading the session summaries.
 
 <br>
 
 # [[News Update]] 
-**Down Until Start of Campaign** 
-
 Catch up on previous sessions by reading about their impact in the news.
