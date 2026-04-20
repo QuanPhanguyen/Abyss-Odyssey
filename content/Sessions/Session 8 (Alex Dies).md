@@ -1,4 +1,4 @@
-6/8/502 LM
+5/29/502 LM
 
 The session opens with a flashback. [[Four (Cult Leader)|Four]] is remembering her early days at the Community. [[Giskenroc/Factions/Congregant of Aerovar (Light)/Notable Figures/Helion Maximinimus|Helion]] enters the center area to introduce [[Relic (Minor Cult Member)|Relic]] to the cult. The two of them immediately hit it off, proclaiming to be best friends forever. Out of the blue, while continuing their conversation, Relic asks Four why she allowed her to die. Four panics and makes excuses, insisting it wasn’t her fault, as Relic continues to berate her. Four wakes up from her nightmare. 
 
