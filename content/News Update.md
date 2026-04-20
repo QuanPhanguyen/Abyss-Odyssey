@@ -1,8 +1,12 @@
 ---
 title: News Update
 pinned: true
-motd: Head researcher calls for expeditions out of Giskenroc!
+motd: Neighborhood explosion leaves dozens dead!
 ---
+(6/8/502 LM) A neighborhood explosion is the result of a Kyezenthue malfunction. Causalities are expected to range in the dozens, although an accurate count is yet to be finalized.
+
+<br>
+
 (5/21/502 LM) The chief researcher for the Congregant of Aerovar has officially declared their support for the loosening of expedition thresholds. Will this mark a new era of biome exploration? 
 <br>
 

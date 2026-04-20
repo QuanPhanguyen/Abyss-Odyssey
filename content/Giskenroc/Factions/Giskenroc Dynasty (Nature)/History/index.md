@@ -20,7 +20,7 @@ King Eponya had a largely hands-off policy when it came to his kingdom. All thin
 
 If you wanted something, you'd put your life on the line for it. Not many could complain about that. Not even royals were exempt from this rule. They purposely lived a frugal life, better than complete poverty, in order to live and rule.
 
-[[King|King Desolpe]] tells a similar story in a different way. Despite being an illegitimate child, he shared his father's vision for Giskenroc. He's simply more liberal about it. If someone's willing to go into a situation where their death is 99% guaranteed for 10 silver pieces, Eponya would never allow it. Desolpe would.
+[[Giskenroc/Factions/Giskenroc Dynasty (Nature)/Notable Figures/King|King Desolpe]] tells a similar story in a different way. Despite being an illegitimate child, he shared his father's vision for Giskenroc. He's simply more liberal about it. If someone's willing to go into a situation where their death is 99% guaranteed for 10 silver pieces, Eponya would never allow it. Desolpe would.
 
 #### Biome Restriction Repealed (425 LM.)
 One of the most influential decrees signed under King Desolpe. All sorts of highly dangerous Biomes were back on the table, and everyone was allowed to put skin in the game. Since this repeal, deaths from biome expeditions have steadily creeped into the hundred thousands territory. Only time will tell if it was worth it.

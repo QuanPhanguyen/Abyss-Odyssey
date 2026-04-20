@@ -12,4 +12,4 @@ A creation of the state. Allowed to wander and do whatever they please due to th
 
 Related Characters:
 - [[Alex (Bumpkin)]] - A friend.
-- [[King|King Desolpe]] - Commissioner.
+- [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/Notable Figures/King|King Desolpe]] - Commissioner.

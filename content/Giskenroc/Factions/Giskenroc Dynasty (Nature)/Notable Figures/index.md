@@ -5,11 +5,5 @@ A list of notable figures within this faction. This list will be updated as sess
 
 <br>
 
-## [[Current Cardinal|King Desolpe]]
+## [[Giskenroc/Factions/Congregant of Aerovar (Light)/Notable Figures/Current Cardinal|King Desolpe]]
 The current king of the Giskenroc. 
-
-### [[Travish Darksledge]]
-A well-known retired adventurer who works as a cabby.
-
-### [[Lily Haxley]]
-A fae researcher dealing with creatures and plants.
