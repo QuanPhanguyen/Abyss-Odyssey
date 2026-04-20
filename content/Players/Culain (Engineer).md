@@ -4,7 +4,7 @@
 | Species    | High Elf                                    |
 | Class      | Artificer                                   |
 | Level      | 2                                           |
-| Apperances | [[Session 2]], [[Session 4]], [[Session 6]] |
+| Apperances | [[Session 2 (Icynia's Plains)]], [[Session 4 (Spirit's Crossroads)]], [[Session 6 (Four)]] |
 | Augment    | Yes, Uncommon                               |
 | Equipment  | N/A                                         |
 

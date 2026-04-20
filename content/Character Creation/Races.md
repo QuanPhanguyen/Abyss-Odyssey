@@ -8,16 +8,16 @@ I'll list below some common species and their background information in this cam
 <br> <br>
 
 ### Dwarves
-As a species, Dwarves are best suited working in the forge, causing them generally to shift toward the [[Giskenroc/Factions/Kyezenthue (Dark)/index|Kyezenthue]]. 
+As a species, Dwarves are best suited working in the forge, causing them generally to shift toward the [[(Habitat)/Giskenroc/Factions/Kyezenthue (Dark)/index|Kyezenthue]]. 
 
 ### Fey *(Elves/Fairies/Centaurs/Changeling/Satyr)*
-The fey compose the [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/index|Royal Family]] and are the founders of Giskenroc. No matter what sort of fey creature you play, you should have some form of connection with the dynasty. 
+The fey compose the [[(Habitat)/Giskenroc/Factions/Giskenroc Dynasty (Nature)/index|Royal Family]] and are the founders of Giskenroc. No matter what sort of fey creature you play, you should have some form of connection with the dynasty. 
 
 ### Monsters *(Bugbear/Changeling/Dhampir/Goblin/Etc.)*
-Due to the hierarchical system, the [[Giskenroc/Factions/Kyezenthue (Dark)/index|Kyezenthue]] attracts a large portion of monster types of races. All types of oddballs convene here. 
+Due to the hierarchical system, the [[(Habitat)/Giskenroc/Factions/Kyezenthue (Dark)/index|Kyezenthue]] attracts a large portion of monster types of races. All types of oddballs convene here. 
 
 ### Warforged
-Warforged in this campaign 100% originate from [[Giskenroc/Factions/Kyezenthue (Dark)/index|Kyezenthue]] as of now. Your character should have some connection with them.
+Warforged in this campaign 100% originate from [[(Habitat)/Giskenroc/Factions/Kyezenthue (Dark)/index|Kyezenthue]] as of now. Your character should have some connection with them.
 
 
 

@@ -4,7 +4,7 @@
 | Species     | Satyr                                       |
 | Class       | Bard                                        |
 | Level       | 3                                           |
-| Appearances | [[Session 1]], [[Session 3]], [[Session 5]] |
+| Appearances | [[Session 1 (To Be Gisken)]], [[Session 3 (What You Don't See)]], [[Session 5 (Call of the Void)]] |
 
 A standard Gisken shopkeeper who became involved with eldritch concepts.
 

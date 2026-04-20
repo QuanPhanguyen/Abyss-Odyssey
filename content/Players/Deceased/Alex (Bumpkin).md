@@ -4,7 +4,7 @@
 | Species     | Air Genasi                                  |
 | Class       | Bard                                        |
 | Level       | 2                                           |
-| Appearances | [[Session 1]], [[Session 2]], [[Session 8]] |
+| Appearances | [[Session 1 (To Be Gisken)]], [[Session 2 (Icynia's Plains)]], [[Session 8 (Alex Dies)]] |
 | Augment     | No                                          |
 | Equipment   | N/A                                         |
 

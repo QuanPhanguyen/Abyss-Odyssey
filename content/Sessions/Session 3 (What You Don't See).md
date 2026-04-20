@@ -1,9 +1,13 @@
 [Session 3](https://youtu.be/Fk4zIt79Mlk "https://youtu.be/Fk4zIt79Mlk")
 [Session 3 Extras](https://youtu.be/leen_bk7jUE "https://youtu.be/leen_bk7jUE")
 
+<br>
+*Gogoat purchases an egg.*
+<br>
+
 3/29/502 LM
 
-At the same day as [[Session 2]], [[Gogoat (Merchant)|Gogoat]] entertains a late night visitor who sells him an egg from deep in Dezerekt. He sends this egg away to a friend of his, [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/Notable Figures/Lily Haxley]], who specializes in this type of research.
+At the same day as [[Session 2 (Icynia's Plains)]], [[Gogoat (Merchant)|Gogoat]] entertains a late night visitor who sells him an egg from deep in Dezerekt. He sends this egg away to a friend of his, [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/Notable Figures/Lily Haxley]], who specializes in this type of research.
 
 A month later, [[Gogoat (Merchant)|Gogoat]] and [[Bjorn (Amnesiac)|Bjorn]] head over to the laboratory to discover the results of their egg investigation. Upon arriving there, they find a dead assistant researcher, the egg hatched, and the place a mess. [[Twig (Government Robot)|Twig]] joins the party as [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/Notable Figures/Lily Haxley]] screams. 
 

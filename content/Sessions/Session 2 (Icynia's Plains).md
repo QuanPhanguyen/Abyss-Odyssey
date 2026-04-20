@@ -1,6 +1,10 @@
 [Session 2](https://youtu.be/fA5b7GzWfSE "https://youtu.be/fA5b7GzWfSE")
 [Session 2 Extras](https://youtu.be/d5Z_L-Ax7M0 "https://youtu.be/d5Z_L-Ax7M0")
 
+<br>
+*Onwards to adventure! Our party heads out of their biome to pursue their many interests.*
+<br>
+
 3/2/502 LM
 
 [[Alex (Bumpkin)|Alex]], [[Violet (Old Timer)|Violet]], [[Culain (Engineer)|Culain]], [[Hesinx (Blind Aristocrat)|Hesinx]], and [[Clobo the Globo (Clown Goblin)|Clobo]] venture out of Giskenroc, each intending to head to different biomes. They meet a myriad of others on the cart, including their veteran cabby [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/Notable Figures/Travish Darksledge]]. 

@@ -9,5 +9,5 @@ The Habitat is what the denizens of Giskenroc call the world they live in. It co
 Hardly anything is known about the Habitat. Even the most widely accepted theories for it are unsubstantiated at best. Every century or so, explorers will recover or discover a clue to the workings of the world they live in, but they are a far, far cry from having an explanation. 
 
 
-## [[Giskenroc/index|Giskenroc]]
+## [[(Habitat)/Giskenroc/index|Giskenroc]]
 Our starting kingdom.

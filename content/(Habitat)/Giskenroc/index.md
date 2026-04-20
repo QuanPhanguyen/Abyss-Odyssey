@@ -14,4 +14,4 @@ Whether this occurs through inhumane scientific experimentation, the exploration
 
 <br>
 
-Three major factions drive the empire's direction as of this moment. [[Giskenroc/Factions/Congregant of Aerovar (Light)/index|The Congregant of Aerovar]], a church focused on the sun, the [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/index|Giskenroc Dynasty]], the royal line who founded the kingdom, and the [[Giskenroc/Factions/Kyezenthue (Dark)/index|Kyezenthue]], a coalition of researchers and blacksmiths dedicated to ancient technology. 
+Three major factions drive the empire's direction as of this moment. [[(Habitat)/Giskenroc/Factions/Congregant of Aerovar (Light)/index|The Congregant of Aerovar]], a church focused on the sun, the [[(Habitat)/Giskenroc/Factions/Giskenroc Dynasty (Nature)/index|Giskenroc Dynasty]], the royal line who founded the kingdom, and the [[(Habitat)/Giskenroc/Factions/Kyezenthue (Dark)/index|Kyezenthue]], a coalition of researchers and blacksmiths dedicated to ancient technology. 

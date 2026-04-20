@@ -1,6 +1,10 @@
 [Session 4](https://youtu.be/1I_rgwK43uU "https://youtu.be/1I_rgwK43uU")
 [Session 4 Extras](https://youtu.be/sz01MTVZthA "https://youtu.be/sz01MTVZthA")
 
+<br>
+*Revelations may be made.*
+<br>
+
 4/19/502 LM
 
 Today is the anniversary of Prince Desolpe's crowning. Citizens flock to the capital streets, enjoying each other's company and night life. [[Violet (Old Timer)|Violet]] is plagued by the resurgence of ghosts in her life. It is revealed that as Violet returns to her former strength, otherworldly force are beginning to haunt her again. They take her to significant events where she is needed. 
@@ -11,7 +15,7 @@ Meanwhile, [[Seraphina (Biome Researcher)|Seraphina]] and [[Culain (Engineer)|Cu
 
 Seeing a strange crowd forming, Seraphina senses an opportunity. The two lab researchers have been working on a theory. They hypothesize that sunlight is diminishing at a miniscule but exponential amount over time. However, they require data to prove it. Data from the period of history before the 67th year of Giskenroc's history, which is heavily restricted knowledge.
 
-There are two locations which could satisfy this historical criteria. They could venture to the kingdom on the second floor of the capital and stealth into the vaults with the help of Seraphina's dad. Or they could enter the [[Giskenroc/Locations/index|Aerovian Church]] and sneak into the archives with the help of Four and Relic's bishop leader. After weighing the pros and cons, they decide to head to the kingdom's vaults. 
+There are two locations which could satisfy this historical criteria. They could venture to the kingdom on the second floor of the capital and stealth into the vaults with the help of Seraphina's dad. Or they could enter the [[(Habitat)/Giskenroc/Locations/index|Aerovian Church]] and sneak into the archives with the help of Four and Relic's bishop leader. After weighing the pros and cons, they decide to head to the kingdom's vaults. 
 
 The party heads up to the second floor and heads to Seraphina's home. They fail to convince her father to help. He warns them about the consequences of getting caught. Seraphina says she'll go to the church otherwise. She's going to do this one way or another. He prefers they try their luck there, and casts Aid on the party after a heartwarming conversation between the two of them.
 

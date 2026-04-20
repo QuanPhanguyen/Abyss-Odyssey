@@ -4,7 +4,7 @@
 | Species     | Wood Elf                                    |
 | Class       | Ranger                                      |
 | Level       | 2                                           |
-| Appearances | [[Session 4]], [[Session 6]], [[Session 7]] |
+| Appearances | [[Session 4 (Spirit's Crossroads)]], [[Session 6 (Four)]], [[Session 7 (Petrified Metropolis)]] |
 | Augment     | No                                          |
 | Equipment   | Cloak of Protection                         |
 

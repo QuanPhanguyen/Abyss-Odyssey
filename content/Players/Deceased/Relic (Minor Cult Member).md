@@ -4,7 +4,7 @@
 | Species     | Forest Gnome                 |
 | Class       | Cleric                       |
 | Level       | 1                            |
-| Appearances | [[Session 4]], [[Session 6]] |
+| Appearances | [[Session 4 (Spirit's Crossroads)]], [[Session 6 (Four)]] |
 
 A cult member.
 

@@ -4,7 +4,7 @@
 | Species     | Dwarf                                                      |
 | Class       | Artificer                                                  |
 | Level       | 2                                                          |
-| Appearances | [[Session 1]], [[Session 3]], [[Session 5]], [[Session 7]] |
+| Appearances | [[Session 1 (To Be Gisken)]], [[Session 3 (What You Don't See)]], [[Session 5 (Call of the Void)]], [[Session 7 (Petrified Metropolis)]] |
 | Augment     | Yes, Uncommon                                              |
 | Equipment   | N/A                                                        |
 

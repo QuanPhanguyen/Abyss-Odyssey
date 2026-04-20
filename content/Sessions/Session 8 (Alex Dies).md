@@ -2,7 +2,7 @@
 
 The session opens with a flashback. [[Four (Cult Leader)|Four]] is remembering her early days at the Community. [[Giskenroc/Factions/Congregant of Aerovar (Light)/Notable Figures/Helion Maximinimus|Helion]] enters the center area to introduce [[Relic (Minor Cult Member)|Relic]] to the cult. The two of them immediately hit it off, proclaiming to be best friends forever. Out of the blue, while continuing their conversation, Relic asks Four why she allowed her to die. Four panics and makes excuses, insisting it wasn’t her fault, as Relic continues to berate her. Four wakes up from her nightmare. 
 
-Her throat is parched, her head is spinning, and she doesn’t know what time it is. At her bedside table is the augment from [[Session 6]]. She has not attuned to it because she feels that doing so will set Relic’s death in stone. A knock at the door captures her attention.
+Her throat is parched, her head is spinning, and she doesn’t know what time it is. At her bedside table is the augment from [[Session 6 (Four)]]. She has not attuned to it because she feels that doing so will set Relic’s death in stone. A knock at the door captures her attention.
 
 Disheveled, Four walks to the door. She’s hesitant about answering. However, something captures her attention. The mysterious visitor has a voice exactly like Relic's. Four opens the door to see [[Alex (Bumpkin)|Alex]]. Alex is on a mission to find the families of all the deceased people from Session 2 for atonement. She mistakenly thinks that the Community holds some clues. Four initially wishes to wave Alex off, but feels a strange sense of kinship from this person who has the same mannerisms as her dead friend. The two of them set off to the guild in search of information.
 

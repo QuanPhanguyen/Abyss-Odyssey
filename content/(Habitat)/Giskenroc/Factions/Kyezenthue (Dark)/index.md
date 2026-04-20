@@ -7,6 +7,6 @@ After a disastrous implosion in 166 LM that wiped out an entire residential squa
 
 Although rough financial records existed for each of these individual organizations, the leading clubs within the Kyezenthue were so visibly prominent there rose a term for the top six of the pack: the Spires. Their towers of business could be seen from even the outskirts of the kingdom. Only one of the original spires persisted to present day, but turning your idea into a spire within Kyezenthue is perhaps the greatest achievement one can obtain within Giskenroc.
 
-#### [[Giskenroc/Factions/Kyezenthue (Dark)/History/index|History]]
+#### [[(Habitat)/Giskenroc/Factions/Kyezenthue (Dark)/History/index|History]]
 
-#### [[Giskenroc/Factions/Kyezenthue (Dark)/Notable Figures/index|Notable Figures]]
+#### [[(Habitat)/Giskenroc/Factions/Kyezenthue (Dark)/Notable Figures/index|Notable Figures]]

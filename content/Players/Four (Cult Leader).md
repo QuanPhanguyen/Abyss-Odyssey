@@ -4,7 +4,7 @@
 | Species     | Forest Gnome                                |
 | Class       | Paladin                                     |
 | Level       | 2                                           |
-| Appearances | [[Session 4]], [[Session 6]], [[Session 8]] |
+| Appearances | [[Session 4 (Spirit's Crossroads)]], [[Session 6 (Four)]], [[Session 8 (Alex Dies)]] |
 | Augment     | Yes, Rare                                   |
 | Equipment   | +1 Longsword (Cursed)                       |
 

@@ -1,11 +1,15 @@
 [Session 5](https://youtu.be/r0O1Ihrsw7E "https://youtu.be/r0O1Ihrsw7E")
 [Session 5 Extras](https://youtu.be/r0O1Ihrsw7E "https://youtu.be/r0O1Ihrsw7E")
 
+<br>
+*Bjorn goes to Dezerekt without Gogoat.*
+<br>
+
 4/26/502 LM
 
 Roll initiative. This session opens mid-combat. [[Violet (Old Timer)|Violet]], [[Twig (Government Robot)|Twig]], [[Gogoat (Merchant)|Gogoat]], [[Aria (Hired Mercenary)|Aria]], are in the middle of a combat with a sentient tree monster and its two smaller branch children. A bountiful spring with lush trees and crystalline water is the battlefield. [[Bjorn (Amnesiac)|Bjorn]] lies on the side, unconscious, with a gaping hole in his chest.
 
-As the turn order goes down, more is revealed about how everyone ended up in this situation. Ever since [[Session 3]], Gogoat has been hearing and seeing things in his day to day life. He tried to brush it off, but the panging is growing increasingly intense. He decides to take a trip into Dezerekt to search for answers. 
+As the turn order goes down, more is revealed about how everyone ended up in this situation. Ever since [[Session 3 (What You Don't See)]], Gogoat has been hearing and seeing things in his day to day life. He tried to brush it off, but the panging is growing increasingly intense. He decides to take a trip into Dezerekt to search for answers. 
 
 The original party who went into the sewers decide to go with him. Aria is a hired hand for extra protection. Dezerekt is a biome with danger increasing with depth. Gogoat's visions take him to a dead end on the first floor. He feels compelled to whistle in a certain manner, and a doorway opens up to place the party in the situation they are presently in. 
 
