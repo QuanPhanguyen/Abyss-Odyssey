@@ -4,7 +4,7 @@
 | Species     | High Elf                                   |
 | Class       | Bard                                       |
 | Level       | 3                                          |
-| Appearances | [[Session 8 (Alex Dies)]], [[Session 9 (]] |
+| Appearances | [[Session 8 (Alex Dies)]], [[Session 9 (A Series Of Escalating Events)]] |
 | Augment     | No                                         |
 | Equipment   | N/A                                        |
 

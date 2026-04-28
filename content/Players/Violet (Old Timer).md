@@ -4,7 +4,7 @@
 | Species     | Dhampir                                                                                                                                                                                                         |
 | Class       | Blood Hunter                                                                                                                                                                                                    |
 | Level       | 4                                                                                                                                                                                                               |
-| Appearances | [[Session 1 (To Be Gisken)]], [[Session 2 (Icynia's Plains)]], [[Session 3 (What You Don't See)]], [[Session 4 (Spirit's Crossroads)]], [[Session 5 (Call of the Void)]], [[Session 6 (Four)]], [[Session 9 (]] |
+| Appearances | [[Session 1 (To Be Gisken)]], [[Session 2 (Icynia's Plains)]], [[Session 3 (What You Don't See)]], [[Session 4 (Spirit's Crossroads)]], [[Session 5 (Call of the Void)]], [[Session 6 (Four)]], [[Session 9 (A Series Of Escalating Events)]] |
 | Augment     | Yes, Rare                                                                                                                                                                                                       |
 | Equipment   | +1 Studded Leather (Cursed)                                                                                                                                                                                     |
 
