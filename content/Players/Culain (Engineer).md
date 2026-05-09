@@ -1,12 +1,12 @@
 
-| Player     | Shreyas                                     |
-| ---------- | ------------------------------------------- |
-| Species    | High Elf                                    |
-| Class      | Artificer                                   |
-| Level      | 2                                           |
-| Apperances | [[Session 2 (Icynia's Plains)]], [[Session 4 (Spirit's Crossroads)]], [[Session 6 (Four)]] |
-| Augment    | Yes, Uncommon                               |
-| Equipment  | N/A                                         |
+| Player     | Shreyas                                                                                                      |
+| ---------- | ------------------------------------------------------------------------------------------------------------ |
+| Species    | High Elf                                                                                                     |
+| Class      | Artificer                                                                                                    |
+| Level      | 2                                                                                                            |
+| Apperances | [[Session 2 (Icynia's Plains)]], [[Session 4 (Spirit's Crossroads)]], [[Session 6 (Four)]], [[Session 10 (The Curious Case Of Seraphina Mistrivvin)]] |
+| Augment    | Yes, Uncommon                                                                                                |
+| Equipment  | N/A                                                                                                          |
 
 A logical elf with his eyes on the scientific prize. Responsible for the discovery of the sun duration decreasing over the years.
 

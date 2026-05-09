@@ -1,7 +1,8 @@
+[Session 9](https://youtu.be/RzCefHifc1Q "https://youtu.be/PbuFaNmMd_c")
+[Session 9 Extras](https://youtu.be/BeSJ1OXqkSU "https://youtu.be/BeSJ1OXqkSU")
 <br>
 *Fir beings to get accustomed to their new life.*
 <br>
-
 6/12/502 LM
 
 The session opens alone with Fir. A brief recap informs them that in the two weeks between the last session and this one, they’ve spent most of their time moving in and getting accustomed to their new environment. Nabon has been rather reserved about this sudden change, allowing Fir to get used to things. The scene pans into his office, where the two of them are having a discussion. Fir is informed that their organization’s objective is to uncover the hidden history of the kingdom. Although Nabon is much more informed about this, being part of the original council, an oath had been made between the original elves to never disclose this information. Fir was a loophole to circumvent this vow. He hands Fir several stacks of paper and tells him to study. Nabon doesn’t want to reveal Fir before he is ready.

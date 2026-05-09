@@ -1,0 +1,3 @@
+*Chaotic neutral dwarf blacksmith (age 120)*
+
+A dwarf with all sorts of construction residue all over his fairly benign uniform. Oswaldi Prinipep is the head of the 7th Spire in Giskenroc, and mostly focuses on the dismantling of foreign objects. He comes from a lineage of dwarves which have made significant advancements to everyday society, being directly responsible for the source of eternal flame. He holds little morality for the significance of human life over technological advancement. This is a trait which dwindles the higher up anyone goes in the Kyezenthue ladder. Getting Oswaldi to do anything for you requires connections, and even then you'll be put in a extensive waitlist. Of course, there are deals that can be made to speed up the process...
