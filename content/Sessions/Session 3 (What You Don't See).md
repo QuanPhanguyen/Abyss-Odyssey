@@ -7,9 +7,9 @@
 
 3/29/502 LM
 
-At the same day as [[Session 2 (Icynia's Plains)]], [[Gogoat (Merchant)|Gogoat]] entertains a late night visitor who sells him an egg from deep in Dezerekt. He sends this egg away to a friend of his, [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/Notable Figures/Lily Haxley]], who specializes in this type of research.
+On the same day as [[Session 2 (Icynia's Plains)|Session 2]], [[Gogoat (Merchant)|Gogoat]] entertains a late night visitor who sells him an egg from deep within Dezerekt. He sends this egg away to a friend of his, [[Lily Haxley]] who specializes in this type of research.
 
-A month later, [[Gogoat (Merchant)|Gogoat]] and [[Bjorn (Amnesiac)|Bjorn]] head over to the laboratory to discover the results of their egg investigation. Upon arriving there, they find a dead assistant researcher, the egg hatched, and the place a mess. [[Twig (Government Robot)|Twig]] joins the party as [[Giskenroc/Factions/Giskenroc Dynasty (Nature)/Notable Figures/Lily Haxley]] screams. 
+A month later, [[Gogoat (Merchant)|Gogoat]] and [[Bjorn (Amnesiac)|Bjorn]] head over to the laboratory to discover the results of their egg investigation. Upon arriving there, they find a dead assistant researcher, the egg hatched, and the place a mess. [[Twig (Government Robot)|Twig]] joins the party as Lily screams. 
 
 Upon investigation, it is found that the creature emits a dark, viscous slime, entering a drain pipe. The cage seemed purposefully unlocked, the researcher has their eyes missing, and the researcher died from blunt force trauma to the back of their head.
 

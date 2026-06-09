@@ -1,10 +1,13 @@
+[Session 10](youtube.com/watch?v=pcTUJYvEINE)
+[Session 10 Extras](https://www.youtube.com/watch?v=3_ZNokUlKNA)
+
 *The search for Seraphina leads to a faraway land.*
 
 7/15/502 LM
 
 The session opens with [[Culain (Engineer)|Culain]], [[Four (Cult Leader)|Four]], and [[Violet (Old Timer)|Violet]] standing at the pitstop before the grassy road's biome gate. They each have their suspicions over Seraphina's disappearance and wish to investigate the matter on their own. After finding nothing out of the ordinary, Violet finds a small, tabaxi child spying on them. 
 
-[[An (Kid)|An Ny]], the child, says they live around the area and frequent this location often. The trio asks if she was here last month. An Ny says she could answer if they give her some money because she is in severe debt. The trio tentatively agree to resolve her debt, and An Ny reveals there was a rock making odd noises at the site, which she scooped up and took home. The trio ask for the rock. An Ny brings them to her home.
+[[An Ny (Kid)|An Ny]], the child, says they live around the area and frequent this location often. The trio asks if she was here last month. An Ny says she could answer if they give her some money because she is in severe debt. The trio tentatively agree to resolve her debt, and An Ny reveals there was a rock making odd noises at the site, which she scooped up and took home. The trio ask for the rock. An Ny brings them to her home.
 
 They all make it to a seedy establishment which looks like an orphanage on the surface. Four is able to ascertain that there's more to this place which meets the eye. An Ny grants them the rock, which Culain recognizes as a sending stone. He says his workshop instructor can help them more with this, but he must depart because the church is keeping a close watch on him after Seraphina's disappearance. 
 
@@ -12,7 +15,7 @@ Meanwhile, [[Fir (Scion)|Fir]] and [[Twig (Government Robot)|Twig]] are visiting
 
 They meet [[Oswaldi Prinipep]], the head of the spire. He looks incredibly busy, and his spire seems like a factory with multiple OSHA violations. Upon receiving the requests, he gives the party a long wait time on when he can get to them. They can't afford to wait that long. They ask if there's any way for them to speed the process up. Oswaldi has just the thing for them.
 
-The group takes an elevator down to the basement. A very sterile laboratory awaits them. In a testing room, there is a floating artifact in the form of an orb. Oswaldi explains that he has already sent two volunteers to investigate the orb, and they promptly perished. This seems like a job for more experienced adventurers. They send Meloni in, and he freezes in place upon taking his first step. Panicked, Fir yanks them out. Meloni goes unconscious.
+The group takes an elevator down to the basement. A very sterile laboratory awaits them. In a testing room, there is a floating artifact in the form of an orb. Oswaldi explains that he has already sent two volunteers to investigate the orb from a tentative biome named JRX, and they promptly perished. This seems like a job for more experienced adventurers. They send Meloni in, and he freezes in place upon taking his first step. Panicked, Fir yanks them out. Meloni goes unconscious.
 
 In his point of view, a full minute passed. He entered a strange realm of floating islands, chiseled slab moving points, blue and purple fauna, and bell's chiming. A voice questions him telepathically. Before he can make heads or tails of the situation, he's pulled out. 
 

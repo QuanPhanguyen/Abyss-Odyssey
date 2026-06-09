@@ -1,7 +1,7 @@
 A list of the sessions so far. These will include relevant links and an overview of what happened.
 
 ```chronos
-#PARAM:{"windowRange":["502-04-01","502-012-30"]}
+#PARAM:{"windowRange":["502-01-01","502-08-30"]}
 
 @ [502~503] # To Be Gisken
 - [502-02-01] #green Session 1 | [[Sessions/Session 1 (To Be Gisken)]]
@@ -12,5 +12,8 @@ A list of the sessions so far. These will include relevant links and an overview
 - [502-05-20] #green Session 6 | [[Sessions/Session 6 (Four)]]
 - [502-06-10] #green Session 7 | [[Sessions/Session 7 (Petrified Metropolis)]]
 - [502-05-29] #green Session 8 | [[Session 8 (Alex Dies)]] 
-- [502-06-12] #green Session 9 | [[Session 9 (A Series Of Escalating Events)]] 
+- [502-06-12] #green Session 9 | [[Session 9 (A Series Of Escalating Events)]]
+- [502-07-15] #green Session 10 | [[Session 10 (The Curious Case Of Seraphina Mistrivvin)]]
+- [502-06-15] #green Session 11 | [[Session 11 (Spirit's Nook)]]
+- [502-07-22] #green Session 12 | [[Session 12 (Skulking Pits)]]
 ```

@@ -2,7 +2,7 @@
 | Name                | Petrified Metropolis |
 | ------------------- | -------------------- |
 | Entering Conditions | 30%                  |
-| Danger              | Moderately Dangerous |
+| Danger              | Mildly Dangerous     |
 | Connected Biomes    | N/A                  |
 
 A biome with a slim moment to enter. It's surprising it hasn't been found yet. Although exact conditions for entrance haven't been locked down yet, off the Grassy Road, denizens can enter this biome once a month. It is a sprawling urban architectural maze, a gray-scale color palette with a constant, bright white light filling the sky with no origin. There's a seemingly infinite number of skyscrapers with walkways connecting multiple buildings, on multiple levels, to create a 3D visual maze. Landmarks appear every so often as spiral towers with pointed tips, protruding higher than the skyscrapers besides them. Navigating is difficult, however prior explorers have marked the exit which is visible for miles.
