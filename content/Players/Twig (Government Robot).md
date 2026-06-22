@@ -1,12 +1,12 @@
 
-| Player      | Megan                                                                                                                                                               |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Species     | Warforged                                                                                                                                                           |
-| Class       | Druid                                                                                                                                                               |
-| Level       | 3                                                                                                                                                                   |
-| Appearances | [[Session 1 (To Be Gisken)]], [[Session 3 (What You Don't See)]], [[Session 5 (Call of the Void)]], [[Session 9 (A Series Of Escalating Events)]], [[Session 10 (The Curious Case Of Seraphina Mistrivvin)]] |
-| Augment     | No                                                                                                                                                                  |
-| Equipment   | Razor Leaf, Doll                                                                                                                                                    |
+| Player      | Megan                                                                                                                                                                                                                                                                          |
+| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Species     | Warforged                                                                                                                                                                                                                                                                      |
+| Class       | Druid                                                                                                                                                                                                                                                                          |
+| Level       | 3                                                                                                                                                                                                                                                                              |
+| Appearances | [[Session 1 (To Be Gisken)]], [[Session 3 (What You Don't See)]], [[Session 5 (Call of the Void)]], [[Session 9 (A Series Of Escalating Events)]], [[Session 10 (The Curious Case Of Seraphina Mistrivvin)]], [[Session 12 (Skulking Pits)]], [[Session 13 (Ask Me Anything)]] |
+| Augment     | No                                                                                                                                                                                                                                                                             |
+| Equipment   | Razor Leaf, Doll                                                                                                                                                                                                                                                               |
 
 A creation of the state. Allowed to wander and do whatever they please due to their faulty design.
 

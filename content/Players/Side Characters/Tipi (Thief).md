@@ -4,7 +4,7 @@
 | Species     | Gnome                          |
 | Class       | Rogue                          |
 | Level       | 3                              |
-| Appearances | [[Session 11 (Spirit's Nook)]] |
+| Appearances | [[Session 11 (Death of Five Alps)]] |
 
 Your average criminal. 
 

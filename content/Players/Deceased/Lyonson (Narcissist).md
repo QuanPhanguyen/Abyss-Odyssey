@@ -4,7 +4,7 @@
 | Species     | Aarakocra                      |
 | Class       | Barbarian                      |
 | Level       | 3                              |
-| Appearances | [[Session 11 (Spirit's Nook)]] |
+| Appearances | [[Session 11 (Death of Five Alps)]] |
 
 A barbarian with a flair for nature.
 

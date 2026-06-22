@@ -1,10 +1,10 @@
 
-| Player      | Nhi                            |
-| ----------- | ------------------------------ |
-| Species     | Dragonborn                     |
-| Class       | Cleric                         |
-| Level       | 3                              |
-| Appearances | [[Session 11 (Spirit's Nook)]] |
+| Player      | Nhi                                                                   |
+| ----------- | --------------------------------------------------------------------- |
+| Species     | Dragonborn                                                            |
+| Class       | Cleric                                                                |
+| Level       | 3                                                                     |
+| Appearances | [[Session 11 (Death of Five Alps)]], [[Session 13 (Ask Me Anything)]] |
 
 A devout father in both senses.
 
