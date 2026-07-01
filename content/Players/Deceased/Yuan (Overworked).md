@@ -5,8 +5,10 @@
 | Class       | Wizard                           |
 | Level       | 2                                |
 | Appearances | [[Session 13 (Ask Me Anything)]] |
+| Augment     | Yes, Uncommon                    |
+| Equipment   | No                               |
 
-(Description) 
+An overworked
 
 Related Characters:
 - Example - Example Test

@@ -5,6 +5,8 @@
 | Class       | Cleric                                                                |
 | Level       | 3                                                                     |
 | Appearances | [[Session 11 (Death of Five Alps)]], [[Session 13 (Ask Me Anything)]] |
+| Augment     | No                                                                    |
+| Equipment   | N/A                                                                   |
 
 A devout father in both senses.
 

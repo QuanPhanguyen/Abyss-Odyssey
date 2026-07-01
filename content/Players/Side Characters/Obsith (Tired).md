@@ -1,10 +1,12 @@
 
-| Player      | Megan                          |
-| ----------- | ------------------------------ |
-| Species     | Tiefling                       |
-| Class       | Ranger                         |
-| Level       | 3                              |
+| Player      | Megan                               |
+| ----------- | ----------------------------------- |
+| Species     | Tiefling                            |
+| Class       | Ranger                              |
+| Level       | 3                                   |
 | Appearances | [[Session 11 (Death of Five Alps)]] |
+| Augment     | No                                  |
+| Equipment   | N/A                                 |
 
 An overworked leader with too much to do.
 

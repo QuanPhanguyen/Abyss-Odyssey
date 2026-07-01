@@ -1,10 +1,12 @@
 
-| Player      | Savanna       |
-| ----------- | ------------- |
-| Species     | Human         |
-| Class       | Fighter       |
-| Level       | 2             |
+| Player      | Savanna                          |
+| ----------- | -------------------------------- |
+| Species     | Human                            |
+| Class       | Fighter                          |
+| Level       | 2                                |
 | Appearances | [[Session 5 (Call of the Void)]] |
+| Augment     | No                               |
+| Equipment   | N/A                              |
 
 A hired hand.
 

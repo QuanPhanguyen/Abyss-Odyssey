@@ -1,10 +1,12 @@
 
-| Player      | Savanna                      |
-| ----------- | ---------------------------- |
-| Species     | Forest Gnome                 |
-| Class       | Cleric                       |
-| Level       | 1                            |
+| Player      | Savanna                                                   |
+| ----------- | --------------------------------------------------------- |
+| Species     | Forest Gnome                                              |
+| Class       | Cleric                                                    |
+| Level       | 1                                                         |
 | Appearances | [[Session 4 (Spirit's Crossroads)]], [[Session 6 (Four)]] |
+| Augment     | No                                                        |
+| Equipment   | N/A                                                       |
 
 A cult member.
 

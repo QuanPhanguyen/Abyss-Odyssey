@@ -1,10 +1,12 @@
 
-| Player      | Daisy                          |
-| ----------- | ------------------------------ |
-| Species     | Gnome                          |
-| Class       | Rogue                          |
-| Level       | 3                              |
+| Player      | Daisy                               |
+| ----------- | ----------------------------------- |
+| Species     | Gnome                               |
+| Class       | Rogue                               |
+| Level       | 3                                   |
 | Appearances | [[Session 11 (Death of Five Alps)]] |
+| Augment     | No                                  |
+| Equipment   | +1 Divination Dagger                |
 
 Your average criminal. 
 

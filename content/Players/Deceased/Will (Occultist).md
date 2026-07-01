@@ -1,10 +1,12 @@
 
-| Player      | Hailey                         |
-| ----------- | ------------------------------ |
-| Species     | Human                          |
-| Class       | Warlock                        |
-| Level       | 3                              |
+| Player      | Hailey                              |
+| ----------- | ----------------------------------- |
+| Species     | Human                               |
+| Class       | Warlock                             |
+| Level       | 3                                   |
 | Appearances | [[Session 11 (Death of Five Alps)]] |
+| Augment     | No                                  |
+| Equipment   | N/A                                 |
 
 A human with a touch for the unknown.
 

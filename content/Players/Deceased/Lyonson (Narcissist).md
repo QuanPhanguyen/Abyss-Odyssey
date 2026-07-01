@@ -1,10 +1,12 @@
 
-| Player      | Savanna                        |
-| ----------- | ------------------------------ |
-| Species     | Aarakocra                      |
-| Class       | Barbarian                      |
-| Level       | 3                              |
+| Player      | Savanna                             |
+| ----------- | ----------------------------------- |
+| Species     | Aarakocra                           |
+| Class       | Barbarian                           |
+| Level       | 3                                   |
 | Appearances | [[Session 11 (Death of Five Alps)]] |
+| Augment     | No                                  |
+| Equipment   | N/A                                 |
 
 A barbarian with a flair for nature.
 
