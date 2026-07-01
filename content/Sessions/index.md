@@ -15,6 +15,6 @@ A list of the sessions so far. These will include relevant links and an overview
 - [502-06-12] #green Session 9 | [[Session 9 (A Series Of Escalating Events)]]
 - [502-07-15] #green Session 10 | [[Session 10 (The Curious Case Of Seraphina Mistrivvin)]]
 - [502-06-15] #green Session 11 | [[Session 11 (Spirit's Nook)]]
-- [502-07-22] #green Session 12 | [[Session 12 (Skulking Pits)]]
-- [502-08-01] #green Session 13 | [[Session 13 (Ask Me Anything)]]
+- [502-08-22] #green Session 12 | [[Session 12 (Skulking Pits)]]
+- [502-09-18] #green Session 13 | [[Session 13 (Ask Me Anything)]]
 ```

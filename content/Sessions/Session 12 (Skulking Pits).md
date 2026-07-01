@@ -1,7 +1,13 @@
 *The darker side of Giskenroc.*
 
-7/22/502 LM
+8/22/502 LM
 
 [[Nabon Trebytheus|Nabon]] meets [[Twig (Government Robot)|Twig]] and [[Bobbits (Beggar)|Bobbits]] in his office. He presents them with a recording of the sending stone logs from [[Session 10 (The Curious Case Of Seraphina Mistrivvin)|Session 10]]. Although the voices are heavily distorted, they can make out the following clues: Seraphina is alive and she's ended up in a predicament. Nabon has suspicions about the day they left the expedition and asks for Bobbits and Twig to investigate the criminal underground for information.
 
-Bobbits meets up with his underworld contact, [[Tipi (Thief)]]. He leads them to a secret entrance behind a local tavern. The cavernous, dirt pathway feeds directly into the [[Skulking Pits]], a den for low lives, criminals, and  
+Bobbits meets up with his underworld contact, [[Tipi (Thief)|Tipi]]. He leads them to a secret entrance behind a local tavern. The cavernous, dirt pathway feeds directly into the [[(Habitat)/Giskenroc/Locations/index|Skulking Pits]], a den for low lives, criminals, and nefarious shoppers. They meet [[An Ny (Kid)|An Ny]], who is looking for the odd job to do. She pesters them for a job, and they recruit her to the group. 
+
+After some investigation and socializing, the group finds themselves in the more discrete areas of the pits, where more dangerous people and jobs can be found. They find a myriad of things: a new knife for Tipi, a vampire with servants, and someone with the information they need. A job poster named Natasha knows more about the job taken on the day Seraphina went missing, but asks for a favor in return. Someone in her organization, and more importantly, the person who originally put up the posting, has been taken into custody and is scheduled to be executed outside of the city within three days. If they can break him out, he can tell them more about that day.
+
+They devise a plan with the guard's set-up Natasha gives them. On the day of the event, An Ny phases into the cart and breaks the prisoner out while Twig creates a diversion at the front. Things spiral out of control as a fight quickly breaks out. Bobbits and Tipi enter the fray. An Ny becomes possessed by B.U.D.D.Y as blood is shed, and quickly eviscerates most people nearby. Bobbits is able to knock her out, and the five criminals flee the scene.
+
+On the way back to the Skulking Pits, the prisoner introduces himself as Epsilon. He tells them the following clues about the job posting. Firstly, the circumstances of the post were strange to begin with. At their level, job postings this deep take quite a while to be picked up, because preparations are required and the nicheness of the skill set makes it difficult for anyone to take the listing. This job was taken almost immediately, almost as thought the posting were a front for something else. Secondly, the person who took the posting had an interesting set of gear. It looked custom made by a boutique for high-end assassin's gear. The session ends as they gain the information they needed.

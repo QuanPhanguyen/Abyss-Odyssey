@@ -29,4 +29,7 @@ There is an academy within Giskenroc, but it's not a traditional school. Citizen
 The main registry for all guilds. To open up a guild, you have to make contact with the hall and gain a permit. Having a unified network makes it easier for everyone to accept jobs from anywhere within the empire.
 
 #### Neverslumber Spires 
-The upper end of the Kyezenthue sector. It's only large enough to host laboratories or factories for the top six groups within Kyezenthue. It's nickname is earned from the fact that there are always people working here, meaning its blue lights can be seen from anywhere in the kingdom.  
+The upper end of the Kyezenthue sector. It's only large enough to host laboratories or factories for the top six groups within Kyezenthue. It's nickname is earned from the fact that there are always people working here, meaning its blue lights can be seen from anywhere in the kingdom. 
+
+#### The Skulking Pits
+A den for low lives, criminals, and nefarious shoppers. It is a spiraling labyrinth just underneath the makeup of the city infrastructure. Access is limited in certain shops only discernable to those with the eyes to see. A complex history lies within its sunken halls, and breaking the wrong tradition while you're there may cost you your life.
