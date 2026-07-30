@@ -5,6 +5,8 @@
 | Class       |     |
 | Level       |     |
 | Appearances |     |
+| Augment     |     |
+| Equipment   |     |
 
 (Description) 
 

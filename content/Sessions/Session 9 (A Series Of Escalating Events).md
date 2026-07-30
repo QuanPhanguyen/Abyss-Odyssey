@@ -1,7 +1,7 @@
 [Session 9](https://youtu.be/RzCefHifc1Q "https://youtu.be/PbuFaNmMd_c")
 [Session 9 Extras](https://youtu.be/BeSJ1OXqkSU "https://youtu.be/BeSJ1OXqkSU")
 <br>
-*Fir beings to get accustomed to their new life.*
+*Fir begins to get accustomed to their new life.*
 <br>
 6/12/502 LM
 

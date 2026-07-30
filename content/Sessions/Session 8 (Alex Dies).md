@@ -2,7 +2,7 @@
 [Session 8 Extras](https://youtu.be/FdNp68Skpfw "https://youtu.be/FdNp68Skpfw")
 
 <br>
-*Seraphina fulfills her dream.*
+*Alex reaches a permanent crossroads.*
 <br>
 
 5/29/502 LM
